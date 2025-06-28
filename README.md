@@ -30,13 +30,6 @@ Vehicle Train Set.ipynb — Model training and tuning (RandomizedSearchCV)
 
 Vehicle Price.csv — Raw dataset (optional, for reference)
 
-### 🚀 How to Run
-bash
-Copy
-Edit
-pip install streamlit pandas scikit-learn
-streamlit run app.py
-
 ### ✅ Author
 Created with ❤️ by Kunsh Bhatia
 
