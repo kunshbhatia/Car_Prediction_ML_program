@@ -1,0 +1,976 @@
+make,model,year,price,fuel,mileage,transmission,body,doors,exterior_color,interior_color,drivetrain
+Jeep,Wagoneer,2024,74600,Gasoline,10,8-Speed Automatic,SUV,4,White,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,50170,Gasoline,1,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+GMC,Yukon XL,2024,96410,Gasoline,0,Automatic,SUV,4,Summit White,Teak/Light Shale,Four-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,32,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+RAM,3500,2024,81663,Diesel,10,6-Speed Automatic,Pickup Truck,4,Silver,Black,Four-wheel Drive
+Nissan,Murano,2024,46000,Gasoline,3838,Automatic CVT,SUV,4,White,Gray,All-wheel Drive
+Jeep,Wagoneer,2024,63862,Gasoline,5,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Rear-wheel Drive
+Ford,F-350,2024,89978,Diesel,15,10-Speed Automatic,Pickup Truck,4,Carbonized Gray Metallic,Black Onyx,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,42230,Hybrid,5,6-Speed Automatic,SUV,4,White Pearl,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,42773,Gasoline,20,Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Jeep,Compass,2024,37743,Gasoline,0,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+RAM,3500,2024,60904,Diesel,532,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+Hyundai,Santa Cruz,2024,43419,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Atlas,Dark Gray,All-wheel Drive
+Jeep,Grand Cherokee,2024,44022,Gasoline,12,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+Chevrolet,Blazer EV,2024,51695,Electric,4,1-Speed Automatic,SUV,4,Sterling Gray Metallic,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,38574,Gasoline,12,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+Nissan,Murano,2024,48000,Gasoline,87,Automatic CVT,SUV,4,Deep Ocean Blue,Beige,All-wheel Drive
+Ford,Explorer,2024,53190,Gasoline,15,10-Speed Automatic,SUV,4,Star White,Ebony,Four-wheel Drive
+Volkswagen,Taos,2024,32751,Gasoline,25,7-Speed DSG Automatic with Tiptronic,SUV,4,Blue,Black Cloud,All-wheel Drive
+Volkswagen,Jetta,2024,24348,Gasoline,13,8-Speed Automatic with Tiptronic,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+RAM,3500,2024,65221,Diesel,344,Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,39491,Hybrid,5,6-Speed Automatic,SUV,4,HOT TAMALE,Black,All-wheel Drive
+Hyundai,Tucson,2024,30305,Gasoline,11,8-Speed Automatic,SUV,4,White Pearl,Black,Front-wheel Drive
+GMC,Terrain,2024,44120,Gasoline,0,Automatic,SUV,4,Ebony,Jet Blk,All-wheel Drive
+Hyundai,Santa Cruz,2024,33160,Gasoline,1,8-Speed Automatic,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+Ford,Explorer,2024,40940,Gasoline,7,10-Speed Automatic,SUV,4,Star White,Ebony,Rear-wheel Drive
+Jeep,Compass,2024,34084,Gasoline,12,8-Speed Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive
+Chrysler,Pacifica,2024,48705,Gasoline,8,9-Speed Automatic,Passenger Van,4,Diamond Black,Black,All-wheel Drive
+Chevrolet,Blazer EV,2024,52190,Electric,6,1-Speed Automatic,SUV,4,Radiant Red,Black,All-wheel Drive
+RAM,2500,2024,58855,Gasoline,0,Automatic,Pickup Truck,4,Granite,Black,Four-wheel Drive
+Nissan,Murano,2024,39867,Gasoline,2,Automatic CVT,SUV,4,White,Graphite,Front-wheel Drive
+Ford,Transit-250,2024,53595,E85 Flex Fuel,10,Automatic,Cargo Van,3,Oxford White,Dark Palazzo Gray,Rear-wheel Drive
+Jeep,Grand Cherokee 4xe,2023,59547,Hybrid,185,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Kia,EV6,2024,49820,Electric,13,Automatic,SUV,4,Yacht Blue,Black,All-wheel Drive
+Volkswagen,Jetta,2024,27175,Gasoline,5,8-Speed Automatic with Tiptronic,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+Ford,Mustang Mach-E,2024,47790,Electric,5,1-Speed Automatic,SUV,4,Vapor Blue,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,58610,Gasoline,0,Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Kia,Seltos,2024,29640,Gasoline,16,Automatic CVT,SUV,4,Steel Gray,Black,All-wheel Drive
+Chevrolet,Blazer,2024,43727,Gasoline,9,9-Speed Automatic,SUV,4,Copper Bronze,Jet Black,All-wheel Drive
+GMC,Terrain,2024,35870,Gasoline,0,Automatic,SUV,4,Summit White,Jet Blk Premium Clth,All-wheel Drive
+RAM,3500,2024,64670,Diesel,15,Automatic,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+Jeep,Wrangler,2024,46973,Gasoline,10,Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54905,Hybrid,1,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,50915,Hybrid,7,8-Speed Automatic,SUV,4,Machine Gray Metallic,Black,All-wheel Drive
+Acura,MDX,2024,65595,Gasoline,16,10-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Compass,2024,28860,Gasoline,7,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,21,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Subaru,Outback,2024,44354,Gasoline,8,Automatic CVT,SUV,4,Magnetite,Gray,All-wheel Drive
+Volkswagen,Atlas Cross Sport,2024,51721,Gasoline,11,8-speed automatic,SUV,4,Silver Mist Metallic,Black,All-wheel Drive
+Hyundai,IONIQ 5,2024,44195,Electric,14,1-Speed Automatic,SUV,4,Atlas,Gray,Rear-wheel Drive
+Audi,Q8 e-tron,2024,86670,Electric,5,Automatic,SUV,4,Glacier White Metallic,Pearl Beige,All-wheel Drive
+Volkswagen,Jetta,2024,24348,Gasoline,6,8-Speed Automatic with Tiptronic,Sedan,4,Pure White,Titan Black,Front-wheel Drive
+Hyundai,Sonata Hybrid,2024,38870,Hybrid,14,6-Speed Automatic,Sedan,4,Portofino Gray,Dark Gray,Front-wheel Drive
+Kia,EV9,2024,52388,Electric,1,1-Speed Automatic,SUV,4,Aurora Black Pearl,Gray,Rear-wheel Drive
+Dodge,Durango,2024,58709,Gasoline,15,8-Speed Automatic,SUV,4,Night,Black,All-wheel Drive
+Dodge,Hornet,2024,42855,Gasoline,5,6-Speed Automatic,SUV,4,8 Ball,Black,All-wheel Drive
+Dodge,Hornet,2024,34990,Gasoline,10,9-Speed Automatic,SUV,4,Q BALL,Black,All-wheel Drive
+Kia,Sportage Hybrid,2024,34835,Hybrid,9,Automatic,SUV,4,Gravity Gray,Black,All-wheel Drive
+Ford,Expedition,2024,69955,Gasoline,8,10-Speed Automatic,SUV,4,Silver,Black Onyx,Four-wheel Drive
+Dodge,Hornet,2024,39581,Hybrid,5,6-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Volkswagen,Atlas,2024,49166,Gasoline,0,8-Speed Automatic,SUV,4,Avocado Green,Titan Black,All-wheel Drive
+Hyundai,IONIQ 5,2024,55365,Electric,10,1-Speed Automatic,SUV,4,Cyber Gray,Black,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,51360,Gasoline,8,8-Speed Automatic,SUV,4,Bright White Clearcoat,Beige / Black,Rear-wheel Drive
+Hyundai,Tucson,2024,40474,Gasoline,5,Automatic,SUV,4,Shimmering Silver,Gray,All-wheel Drive
+BMW,X7,2024,89450,Gasoline,10,8-Speed Automatic,SUV,4,Black Sapphire Metallic,Cognac,All-wheel Drive
+Jeep,Compass,2024,28860,Gasoline,7,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Toyota,Tundra Hybrid,2024,62341,Hybrid,4357,10-Speed Automatic,Pickup Truck,4,Ice Cap,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42015,Electric,7,1-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Nissan,Kicks,2024,24500,Gasoline,10,CVT,SUV,4,Aspen White Tricoat,Charcoal,Front-wheel Drive
+Buick,Envista,2024,27075,Gasoline,6,6-Speed Automatic,SUV,4,Sunrise Red Metallic,Ebony,Front-wheel Drive
+Acura,MDX,2024,51645,Gasoline,5,10-Speed Automatic,SUV,4,Black,Black,Front-wheel Drive
+Nissan,Rogue,2024,35975,Gasoline,4,Automatic,SUV,4,Gun Metallic,Charcoal,All-wheel Drive
+Jeep,Wagoneer,2024,63057,Gasoline,8,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Nissan,Rogue,2024,36405,Gasoline,5,Automatic,SUV,4,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive
+Jeep,Wagoneer L,2024,86137,Gasoline,5,Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Kia,Sportage,2024,27969,Gasoline,0,8-Speed Automatic,SUV,4,Gravity Gray,Black,Front-wheel Drive
+Acura,MDX,2024,51645,Gasoline,5,10-Speed Automatic,SUV,4,White,Black,Front-wheel Drive
+RAM,3500,2024,63223,Diesel,13,Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Dodge,Durango,2023,47785,Gasoline,32,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Nissan,Murano,2024,46000,Gasoline,5,Automatic CVT,SUV,4,Deep Ocean Blue,Beige,All-wheel Drive
+Nissan,Rogue,2024,41180,Gasoline,3,Automatic,SUV,4,Boulder Gray Pearl,Charcoal,All-wheel Drive
+Dodge,Hornet,2024,44720,Hybrid,5,6-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49390,Gasoline,8,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Jeep,Compass,2024,28860,Gasoline,9,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Mercedes-Benz,EQE 350+,2024,76535,Electric,375,1-Speed Automatic,Sedan,4,Polar White,Gray,Rear-wheel Drive
+Buick,Envista,2024,31805,Gasoline,8,6-Speed Automatic,SUV,4,Ocean Blue Metallic,Ebony,Front-wheel Drive
+Dodge,Durango,2024,44160,Gasoline,12,8-Speed Automatic,SUV,4,Vapor Gray,Black,Rear-wheel Drive
+Hyundai,Sonata,2024,28469,Gasoline,0,8-Speed Automatic,Sedan,4,White,Dark Gray,All-wheel Drive
+RAM,3500,2024,58930,Diesel,13,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+GMC,Terrain,2024,35236,Gasoline,0,9-Speed Automatic,SUV,4,Ebony Twilight Metallic,Jet Black,All-wheel Drive
+Jeep,Wagoneer,2024,60555,Gasoline,5,8-Speed Automatic,SUV,4,Diamond Black,Black,Rear-wheel Drive
+Ford,Ranger,2024,38740,Gasoline,8,10-Speed Automatic,Pickup Truck,4,Carbonized Gray Metallic,Ebony,Four-wheel Drive
+Audi,SQ5,2024,0,Gasoline,14,Automatic,SUV,4,Ultra Blue Metallic,Black,All-wheel Drive
+RAM,3500,2024,66334,Diesel,6,Automatic,Pickup Truck,4,Bright White Clearcoat,Black Interior Color,Four-wheel Drive
+Audi,Q5 e,2024,73020,Gasoline,12,7-Speed Automatic S tronic,SUV,4,Gray Metallic,Black,All-wheel Drive
+RAM,3500,2024,89555,Diesel,12,Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+RAM,3500,2024,65315,Diesel,9,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58599,PHEV Hybrid Fuel,8,Automatic,SUV,4,Soul,Black,All-wheel Drive
+Ford,Mustang Mach-E,2023,50473,Electric,12,1-Speed Automatic,SUV,4,Rapid Red Metallic Tinted Clearcoat,Gray,All-wheel Drive
+Dodge,Hornet,2024,47234,Hybrid,0,6-Speed Automatic,SUV,4,Gold,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,44161,Gasoline,2,8-Speed Automatic,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49496,Gasoline,2,Automatic,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,43475,Gasoline,2,Automatic,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+Dodge,Charger,2023,36083,Gasoline,20,8-Speed Automatic,Sedan,4,White,Black,Rear-wheel Drive
+Chevrolet,Silverado 1500,2024,54559,Gasoline,148,Automatic,Pickup Truck,4,Sterling Gray Metallic,Jet Black,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,60061,Diesel,58,9-Speed Automatic,Cargo Van,3,Silver Gray,Black,Rear-wheel Drive
+Jeep,Compass,2024,28867,Gasoline,1,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive
+Honda,CR-V Hybrid,2024,42005,Hybrid,1,Automatic CVT,SUV,4,Radiant Red Metallic,Black,All-wheel Drive
+Hyundai,IONIQ 6,2024,45005,Electric,12,Automatic,Sedan,4,White,Black,Rear-wheel Drive
+Hyundai,Tucson Hybrid,2024,35864,Hybrid,5,6-Speed Automatic,SUV,4,Amazon Gray,Black,All-wheel Drive
+Jeep,Compass,2023,30000,Gasoline,0,8-Speed Automatic,SUV,4,Red Line,Steel Gry Premium Cl,Four-wheel Drive
+Kia,Sportage,2024,34000,Gasoline,10,8-Speed Automatic,SUV,4,Glacial White Pearl,Black,All-wheel Drive
+Jeep,Compass,2024,29342,Gasoline,6,Automatic,SUV,4,Laser Blue Pearlcoat,Black,Four-wheel Drive
+Ford,Transit-150,2024,55645,E85 Flex Fuel,59,10-Speed Automatic,Cargo Van,3,Race Red,Ebony,All-wheel Drive
+Audi,Q8 e-tron,2024,83630,Electric,5,Automatic,SUV,4,Glacier White Metallic,Pearl Beige,All-wheel Drive
+Jeep,Wrangler,2024,59456,Gasoline,15,Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,39714,Gasoline,14,Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49628,Gasoline,2,Automatic,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,33089,Hybrid,25,6-Speed Automatic,SUV,4,Amazon Gray,Gray,All-wheel Drive
+Mercedes-Benz,EQE 350+,2024,79765,Electric,9,1-Speed Automatic,Sedan,4,Twilight Blue Metallic,Gray,Rear-wheel Drive
+Dodge,Charger,2023,65075,Gasoline,18,8-Speed Automatic,Sedan,4,Blue,Black,Rear-wheel Drive
+Jeep,Compass,2024,38980,Gasoline,9,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Hyundai,Santa Fe,2024,49905,Gasoline,1,Automatic,SUV,4,Green,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,58235,Gasoline,3,Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Volkswagen,Taos,2024,27998,Gasoline,3,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive
+Chevrolet,Equinox,2024,25515,Gasoline,8,6-Speed Automatic Electronic with Overdrive,SUV,4,Summit White,Medium Ash Gray,Front-wheel Drive
+Subaru,Solterra,2024,39934,Electric,5,1-Speed Automatic,SUV,4,Galactic,Black,All-wheel Drive
+Jeep,Wrangler 4xe,2024,66960,Hybrid,5,8-Speed Automatic,SUV,4,Earl Clearcoat,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,53395,Gasoline,5,8-Speed Automatic,SUV,4,Rhodium White Premium,Greige,All-wheel Drive
+Hyundai,IONIQ 5,2024,61775,Electric,12,Automatic,SUV,4,Gold,Gray,All-wheel Drive
+RAM,ProMaster 2500,2024,53272,Gasoline,1,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Lincoln,Corsair,2024,51361,Gasoline,3,8-Speed Automatic,SUV,4,Infinite Black Metallic,Ebony,All-wheel Drive
+GMC,Savana 2500,2024,44595,Gasoline,3,Automatic,Cargo Van,3,Summit White,Black,Rear-wheel Drive
+Chrysler,Pacifica Hybrid,2024,60600,Hybrid,10,Automatic CVT,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+Dodge,Hornet,2024,38575,Gasoline,10,9-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Acura,ZDX,2024,69850,Electric,0,Automatic,SUV,4,Bright White Clearcoat,Black,All-wheel Drive
+Nissan,Altima,2024,31225,Gasoline,6,Automatic CVT,Sedan,4,Black,Charcoal,Front-wheel Drive
+Hyundai,Sonata Hybrid,2024,32520,Hybrid,11,6-Speed Automatic,Sedan,4,Portofino Gray,Gray,Front-wheel Drive
+Dodge,Charger,2023,35821,Gasoline,20,8-Speed Automatic,Sedan,4,Black,Black,Rear-wheel Drive
+Mazda,CX-90 PHEV,2024,60200,Gasoline,33,Automatic,SUV,4,Jet Black Mica,White,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,46835,Electric,8,Automatic,Sedan,4,Graphite Gray Metallic,Gray,All-wheel Drive
+Dodge,Hornet,2024,36532,Gasoline,14,9-Speed 948TE Automatic,SUV,4,Gray Cray,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,61506,Gasoline,3,Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,59625,Gasoline,2,8-Speed Automatic,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,109545,Electric,10,1-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Dodge,Hornet,2024,35480,Gasoline,0,Automatic,SUV,4,Hot Tamale,Black,All-wheel Drive
+Jeep,Compass,2024,31200,Gasoline,11,8-Speed Automatic,SUV,4,Silver Zynith,Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,54835,Gasoline,11,8-Speed A/T,SUV,4,Silver Zynith Clearcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,52115,Gasoline,13,8-Speed Automatic,SUV,4,Metallic,Beige / Black,Four-wheel Drive
+Volkswagen,Taos,2024,32011,Gasoline,11,8-speed automatic,SUV,4,Pure White,Black,Front-wheel Drive
+RAM,ProMaster 3500,2024,53099,Gasoline,30,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,32,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Volkswagen,Taos,2024,30383,Gasoline,13,8-Speed Automatic,SUV,4,Pure Gray W/Black Roof,Black,Front-wheel Drive
+Cadillac,XT5,2024,46890,Gasoline,10,9-Speed Automatic,SUV,4,Crystal White Tri-Coat,Jet Black,Front-wheel Drive
+Jeep,Grand Cherokee,2024,37729,Gasoline,10,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,53535,Hybrid,4,8-Speed Automatic,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+Dodge,Charger,2023,37490,Gasoline,20,8-Speed Automatic,Sedan,4,Green,Black,Rear-wheel Drive
+Dodge,Hornet,2024,44600,Hybrid,5,6-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Dodge,Durango,2024,45038,Gasoline,5,8-Speed Automatic,SUV,4,Vapor Gray,Black,All-wheel Drive
+Acura,MDX,2024,56155,Gasoline,3,10-Speed Automatic,SUV,4,White,Black,All-wheel Drive
+Jeep,Wrangler,2024,60972,Gasoline,12,Automatic,SUV,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+Jeep,Gladiator,2023,53796,Gasoline,0,8-Speed Automatic,Pickup Truck,4,High Velocity Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,41497,Gasoline,11,6-Speed Automatic,SUV,4,Hot Tamale,Black,All-wheel Drive
+Volkswagen,Taos,2024,25311,Gasoline,9,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive
+Dodge,Charger,2023,35913,Gasoline,15,8-Speed Automatic,Sedan,4,Blue,Black,Rear-wheel Drive
+INFINITI,QX50,2024,48350,Gasoline,3,Variable,SUV,4,Slate Gray,Pebble Gray,Front-wheel Drive
+Nissan,Versa,2024,21000,Gasoline,9,Automatic CVT,Sedan,4,Aspen White,Graphite,Front-wheel Drive
+GMC,Savana 2500,2024,44620,Gasoline,12,Automatic,Cargo Van,3,SILVER,Black,Rear-wheel Drive
+Mercedes-Benz,AMG GLE 53,2024,90995,Gasoline,10,9-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Mazda,CX-90 PHEV,2024,56079,Hybrid,0,8-Speed Automatic,SUV,4,Rhodium White Metallic,Black,All-wheel Drive
+Ford,F-350,2024,52263,Gasoline,10,10-Speed Automatic,Pickup Truck,2,Race Red,Medium Earth Gray,Four-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,29,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Dodge,Hornet,2024,42991,Hybrid,14,6-Speed Automatic,SUV,4,HOT TAMALE,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54910,Hybrid,10,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Audi,A5 Sportback,2024,56105,Gasoline,12,7-Speed Automatic with Auto-Shift,Hatchback,4,Navarra Blue Metallic,Black,All-wheel Drive
+Lincoln,Nautilus,2024,64370,Gasoline,8,8-Speed Automatic,SUV,4,Gray Metallic,Black Onyx,All-wheel Drive
+Dodge,Durango,2023,44790,Gasoline,32,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Chevrolet,Trailblazer,2024,32580,Gasoline,0,9-Speed Automatic,SUV,4,Crimson Metallic,Jet Black w/Red Accents,All-wheel Drive
+BMW,i4 Gran Coupe,2024,69685,Electric,5,1-Speed Automatic,Hatchback,4,Black,Tacora Red,Rear-wheel Drive
+Hyundai,Santa Cruz,2024,34330,Gasoline,11,8-Speed Automatic,Pickup Truck,4,Atlas,Gray,All-wheel Drive
+Dodge,Hornet,2024,37430,Gasoline,9,9-Speed A/T,SUV,4,Blu Bayou,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,42015,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,32925,Gasoline,1,8-Speed Automatic,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+Jeep,Wrangler 4xe,2024,57870,Hybrid,5,8-Speed Automatic,SUV,4,Pearlcoat,Black,Four-wheel Drive
+Jeep,Compass,2024,28265,Gasoline,11,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Volkswagen,Taos,2024,30618,Gasoline,7,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Pure White,Gray,All-wheel Drive
+Ford,Escape,2024,31985,Gasoline,2,8-Speed Automatic,SUV,4,Carbonized Gray Metallic,Ebony Black,Front-wheel Drive
+Ford,Bronco Sport,2024,35210,Gasoline,0,8-Speed Automatic,SUV,4,Shadow Black,Ebony/Roast,Four-wheel Drive
+Hyundai,Santa Fe,2024,42455,Gasoline,1,Automatic,SUV,4,Shimmering Silver,Black,All-wheel Drive
+Hyundai,IONIQ 6,2023,51820,Electric,12,1-Speed Automatic,Sedan,4,Gold,Gray,All-wheel Drive
+Hyundai,IONIQ 5,2024,49795,Electric,4,1-Speed Automatic,SUV,4,Atlas,Gray,Rear-wheel Drive
+Jeep,Compass,2024,31721,Gasoline,0,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Dodge,Durango,2024,44852,Gasoline,13,8-Speed Automatic,SUV,4,Vapor Gray,Black,All-wheel Drive
+Dodge,Hornet,2024,32485,Gasoline,48,9 Spd Automatic,SUV,4,Blu Bayou,Black,All-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,34,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,39370,Gasoline,0,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,45844,Hybrid,1,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Wagoneer L,2024,78543,Gasoline,16,8-Speed Automatic,SUV,4,Riverrock Green,Global Black,Four-wheel Drive
+Hyundai,Elantra HEV,2024,27080,Hybrid,13,Automatic,Sedan,4,Serenity White,Medium Gray,Front-wheel Drive
+RAM,3500,2024,83940,Diesel,6,Automatic,Pickup Truck,4,Patriot Blue Pearlcoat,Black,Four-wheel Drive
+Volkswagen,Atlas Cross Sport,2024,48541,Gasoline,10,8-Speed Automatic,SUV,4,Silver Bird Metallic,Mauro Brown,All-wheel Drive
+RAM,3500,2024,81036,Diesel,0,Automatic,Pickup Truck,4,White,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,54949,PHEV Hybrid Fuel,8,Automatic,SUV,4,Soul,Black,All-wheel Drive
+RAM,3500,2024,67562,Diesel,13,Automatic,Pickup Truck,4,White,Black Interior Color,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58399,PHEV Hybrid Fuel,4,Automatic,SUV,4,Rhodium White Premium,Black,All-wheel Drive
+Lexus,RX 500h,2024,73270,Hybrid,21,6-Speed Automatic,SUV,4,Caviar,Black,All-wheel Drive
+RAM,3500,2024,89040,Diesel,5,Aisin 6-Speed Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,52905,Electric,12,1-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Ford,Mustang Mach-E,2024,46920,Electric,10,1-Speed Automatic,SUV,4,Shadow Black,Black Onyx,All-wheel Drive
+Chevrolet,Silverado 1500,2024,65175,Diesel,0,Automatic,Pickup Truck,4,Slate Gray Metallic,Jet Black,Four-wheel Drive
+Nissan,Versa,2024,20389,Gasoline,11,Automatic CVT,Sedan,4,Gun Metallic,Gray,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,50599,PHEV Hybrid Fuel,4,Automatic,SUV,4,Rhodium White Premium,Greige,All-wheel Drive
+Ford,Mustang Mach-E,2023,46935,Electric,11,1-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Hyundai,Santa Fe,2024,38100,Gasoline,1,Automatic,SUV,4,White,Gray,All-wheel Drive
+Kia,Sportage,2024,31190,Gasoline,10,8-Speed Automatic,SUV,4,Glacial White Pearl,Black,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,50755,Hybrid,8,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42201,Electric,8,Automatic,SUV,4,Gold,Gray,Rear-wheel Drive
+Honda,Prologue,2024,55800,Electric,8,1-Speed Automatic,SUV,4,BX,Gray,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35404,Hybrid,10,6-Speed Automatic,SUV,4,White,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35656,Hybrid,9,6-Speed Automatic,SUV,4,Titanium Gray,Black,All-wheel Drive
+Jeep,Compass,2024,32660,Gasoline,9,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Hyundai,IONIQ 6,2024,50850,Electric,10,Automatic,Sedan,4,Serenity White,Black,All-wheel Drive
+Jeep,Wrangler 4xe,2024,61860,Hybrid,5,8-Speed Automatic,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+Volkswagen,Taos,2024,25895,Gasoline,8,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Deep Black Pearl Effect,Black,All-wheel Drive
+Nissan,Kicks,2024,26600,Gasoline,15,CVT,SUV,4,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive
+BMW,i5,2024,91825,Electric,7,1-Speed Automatic,Sedan,4,Mineral White,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,37325,Gasoline,1,8-Speed Automatic,Pickup Truck,4,Sage Gray,Gray,All-wheel Drive
+Jeep,Grand Cherokee,2024,52642,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Jeep,Compass,2024,40235,Gasoline,10,8-Speed Automatic,SUV,4,Sting Gray Clearcoat,Black,Four-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,5,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,42064,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,39832,Hybrid,10,6-Speed Automatic,SUV,4,Deep Sea,Black,All-wheel Drive
+Jeep,Wagoneer,2024,65928,Gasoline,8,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,41036,Gasoline,5,6-Speed Automatic,SUV,4,8 Ball,Black,All-wheel Drive
+Volkswagen,Taos,2024,33331,Gasoline,13,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Pure White,Black,All-wheel Drive
+Dodge,Hornet,2024,51835,Hybrid,33,6-Speed Automatic,SUV,4,8 BALL,Black,All-wheel Drive
+Hyundai,IONIQ 5,2024,42466,Electric,16,1-Speed Automatic,SUV,4,Atlas,Gray,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,34,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,54209,Gasoline,10,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+RAM,3500,2024,86505,Diesel,49,Automatic,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,48595,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4,8 Ball,Black,All-wheel Drive
+Mazda,MX-5 Miata RF,2023,38040,Gasoline,3,6-Speed Automatic,Convertible,2,Snowflake White Pearl,Black,Rear-wheel Drive
+Acura,MDX,2024,52950,Gasoline,3,10-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,52567,Gasoline,246,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Dodge,Durango,2024,46835,Gasoline,28,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,33,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Jeep,Wagoneer,2024,87488,Gasoline,22,8-Speed Automatic,SUV,4,Riverrock Green,Global Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,43904,Electric,6,1-Speed Automatic,SUV,4,Blue,Gray,All-wheel Drive
+Chevrolet,Blazer EV,2024,55090,Electric,9,1-Speed Automatic,SUV,4,Radiant Red,Black,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,110395,Electric,5,Automatic,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,44737,Gasoline,6,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+Volkswagen,ID.4,2024,41693,Electric,0,62 kWh battery,SUV,4,Deep Black Pearl Effect,Nutmeg,Rear-wheel Drive
+Hyundai,Santa Cruz,2024,41995,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Sage Gray,Black,All-wheel Drive
+Honda,CR-V,2024,38855,Hybrid,6,Automatic,SUV,4,Still Night Pearl,Black,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,58909,Gasoline,34,Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+RAM,2500,2024,65350,Gasoline,0,8-Speed Automatic,Pickup Truck,4,Patriot Blue Pearlcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,49411,Gasoline,6,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+Jeep,Wagoneer,2024,72908,Gasoline,8,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Jeep,Compass,2023,37105,Gasoline,8,8-Speed Automatic,SUV,4,Granite Crystal Clearcoat Metallic,Ruby Red,Four-wheel Drive
+Dodge,Hornet,2024,50590,Hybrid,10,6-Speed Automatic,SUV,4,8 BALL,Black,All-wheel Drive
+Chevrolet,Silverado 2500,2024,70190,Diesel,5,Automatic,Pickup Truck,4,Dark Ash Metallic,Gideon/Very Dark Atmosphere,Four-wheel Drive
+Chevrolet,Equinox,2024,25515,Gasoline,5,6-Speed Automatic Electronic with Overdrive,SUV,4,Mosaic Black Metallic,Medium Ash Gray,Front-wheel Drive
+Jeep,Wrangler,2024,59542,Gasoline,10,Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+RAM,ProMaster 2500,2024,53445,Gasoline,6,9-Speed Automatic,Cargo Van,3,Bright Silver Clearcoat Metallic,Black,Front-wheel Drive
+RAM,2500,2024,79675,Diesel,17,6-Speed Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+GMC,Sierra 3500,2024,87075,Diesel (B20 capable),9,10-Speed Shiftable Automatic,Pickup Truck,4,Sterling Metallic,Dark Walnut / Slate,Four-wheel Drive
+Ford,Escape,2024,34799,Gasoline,3,8-Speed Automatic,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive
+RAM,2500,2024,67125,Diesel,5,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,46721,Gasoline,10,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+Kia,EV6,2024,43348,Electric,16,Automatic,SUV,4,Blue,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,56119,Hybrid,10,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Volkswagen,Taos,2024,28193,Gasoline,4,8-Speed Automatic,SUV,4,Deep Black Pearl Effect,Black,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,58949,PHEV Hybrid Fuel,26,Automatic,SUV,4,Artisan Red Premium,Black,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949,PHEV Hybrid Fuel,9,Automatic,SUV,4,Artisan Red Premium,Black,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949,PHEV Hybrid Fuel,9,Automatic,SUV,4,Red,Greige,All-wheel Drive
+Subaru,Legacy,2024,31042,Gasoline,5,Automatic CVT,Sedan,4,Ice Silver Metallic,Gray,All-wheel Drive
+Dodge,Hornet,2024,34000,Gasoline,4440,9-speed automatic,SUV,4,Acapulco Gold,Black,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54449,PHEV Hybrid Fuel,10,Automatic,SUV,4,Sonic,Greige,All-wheel Drive
+Ford,F-350,2024,77885,Gasoline,105,10-Speed Automatic,Pickup Truck,4,Black,Black Onyx,Four-wheel Drive
+Chrysler,300,2023,46835,Gasoline,10,8-Speed Automatic,Sedan,4,Velvet Red Pearlcoat,Black,Rear-wheel Drive
+Jeep,Compass,2024,31535,Gasoline,7,8-Speed Automatic,SUV,4,Silver Zynith,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,50349,PHEV Hybrid Fuel,37,Automatic,SUV,4,Jet Black Mica,Black,All-wheel Drive
+Acura,MDX,2024,56345,Gasoline,5,10-Speed Automatic,SUV,4,Gray,Black,Front-wheel Drive
+BMW,i4 Gran Coupe,2024,73670,Electric,5,1-Speed Automatic,Hatchback,4,White,Tacora Red,All-wheel Drive
+Mazda,CX-90 PHEV,2024,50675,Hybrid,0,8-Speed Automatic,SUV,4,Rhodium White Metallic,Black,All-wheel Drive
+RAM,3500,2024,64516,Diesel,14,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,36480,Gasoline,23,Automatic,SUV,4,Gray Cray,Black,All-wheel Drive
+Audi,Q8 e-tron,2024,89780,Electric,5,Automatic,SUV,4,Glacier White Metallic,Black,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,33,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+BMW,i7,2024,110445,Electric,5,1-Speed Automatic,Sedan,4,Black Sapphire Metallic,Black,Rear-wheel Drive
+Volkswagen,Jetta,2024,26104,Gasoline,9,8-Speed Automatic with Tiptronic,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+Dodge,Hornet,2024,42790,Hybrid,10,6-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,30,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,35,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+BMW,M235 Gran Coupe,2024,54545,Gasoline,10,8-Speed Automatic,Sedan,4,Black Sapphire Metallic,Black,All-wheel Drive
+RAM,3500,2024,65774,Diesel,13,6-Speed Automatic,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+Nissan,Rogue,2024,34305,Gasoline,4,Automatic,SUV,4,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive
+Dodge,Hornet,2024,44621,Hybrid,0,6-Speed Automatic,SUV,4,Q BALL,Black,All-wheel Drive
+Dodge,Hornet,2024,39763,Hybrid,0,6-Speed Automatic,SUV,4,Gold,Black,All-wheel Drive
+RAM,3500,2024,67237,Diesel,6,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive
+Honda,CR-V Hybrid,2024,36900,Hybrid,1,Automatic CVT,SUV,4,Lunar Silver Metallic,Black,All-wheel Drive
+Ford,Expedition,2024,90350,Gasoline,89,10-Speed Automatic,SUV,4,Star White,Black Onyx,Four-wheel Drive
+Ford,Expedition,2024,83910,Gasoline,65,10-Speed Automatic,SUV,4,Green,Black Onyx,Four-wheel Drive
+Audi,Q8 e-tron,2024,84465,Electric,5,Automatic,SUV,4,Glacier White Metallic,Okapi Brown,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49944,Gasoline,2,Automatic,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+Kia,Sportage,2024,32433,Gasoline,0,8-Speed Automatic,SUV,4,White Pearl,Black,All-wheel Drive
+Kia,Sportage,2024,33095,Gasoline,10,8-Speed Automatic,SUV,4,Ebony Black,Black,Front-wheel Drive
+Kia,Sportage,2024,39990,Gasoline,10,8-Speed Automatic,SUV,4,Glacial White Pearl,Black,All-wheel Drive
+Land Rover,Range Rover Evoque,2024,62145,Gasoline,19,9-Speed Automatic,SUV,4,Arroios Grey,Ebony,All-wheel Drive
+Honda,Odyssey,2024,48364,Gasoline,4,10-Speed Automatic,Passenger Van,4,Lunar Silver Metallic,Gray,Front-wheel Drive
+RAM,2500,2024,83374,Diesel,5,Automatic,Pickup Truck,4,Diamond Black Crystal Pearlcoat,Lt Mountain Brown/Brown,Four-wheel Drive
+Honda,Prologue,2024,56550,Electric,1,1-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Chevrolet,Equinox,2024,31222,Gasoline,2,6-Speed Automatic Electronic with Overdrive,SUV,4,Summit White,Jet Black With Red Accents,Front-wheel Drive
+GMC,Sierra 2500,2024,85845,Diesel,2,10-Speed Automatic,Pickup Truck,4,White Frost Tri-Coat,Jet Black,Four-wheel Drive
+Kia,Sportage,2024,30034,Gasoline,0,8-Speed Automatic,SUV,4,Gray,Gry Lthette,Front-wheel Drive
+Dodge,Durango,2023,44170,Gasoline,35,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Audi,Q5 e,2024,69995,Gasoline,12,7-Speed Automatic S tronic,SUV,4,Daytona Gray Pearl,Gray,All-wheel Drive
+Volkswagen,Jetta,2024,27554,Gasoline,7,8-Speed Automatic with Tiptronic,Sedan,4,Opal White Pearl,Titan Black,Front-wheel Drive
+Nissan,Titan,2024,45716,Gasoline,10,Automatic,Pickup Truck,4,Super Black,Black,Four-wheel Drive
+Audi,RS e-tron GT,2024,153690,Electric,10,1-Speed Automatic,Sedan,4,Tactical Green Metallic,Black,All-wheel Drive
+Ford,Edge,2024,42715,Gasoline,2,8-Speed Automatic,SUV,4,Black,Ebony,All-wheel Drive
+Hyundai,Santa Cruz,2024,36970,Gasoline,1,8-Speed Automatic,Pickup Truck,4,Atlas,Black,All-wheel Drive
+Volkswagen,Jetta,2024,26329,Gasoline,25,8-Speed Automatic,Sedan,4,Opal White Pearl Effect,Black,Front-wheel Drive
+Chevrolet,Equinox,2024,30101,Gasoline,2,6-Speed Automatic,SUV,4,Summit White,Jet Black,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,46835,Electric,10,Automatic,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54899,Hybrid,11,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Kia,Sportage,2024,32198,Gasoline,0,8-Speed Automatic,SUV,4,Ebony,Black,All-wheel Drive
+Nissan,Titan,2024,54585,Gasoline,10,Automatic,Pickup Truck,4,Glacier White,Black,Four-wheel Drive
+Jeep,Compass,2024,35999,Gasoline,0,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,36882,Hybrid,11,6-Speed Automatic,SUV,4,White Pearl,Gray,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,32,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+INFINITI,QX50,2024,45055,Gasoline,25,Variable,SUV,4,Black Obsidian,Pebble Gray,Front-wheel Drive
+RAM,3500,2024,69697,Diesel,2,Automatic,Pickup Truck,4,White,Black / Diesel Gray,Four-wheel Drive
+Ford,Mustang Mach-E,2024,49285,Electric,5,1-Speed Automatic,SUV,4,Green,Black,All-wheel Drive
+Dodge,Durango,2023,47785,Gasoline,34,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Wrangler 4xe,2024,51083,Gasoline,3,8-Speed A/T,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Kia,EV6,2024,41528,Electric,14,Automatic,SUV,4,Gray,Black,All-wheel Drive
+Nissan,Kicks,2024,27400,Gasoline,15,CVT,SUV,4,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,52445,Gasoline,5,8-Speed Automatic,SUV,4,Deep Crystal Blue Mica,Greige,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,34600,Hybrid,5,6-Speed Automatic,SUV,4,White Pearl,Gray,All-wheel Drive
+Dodge,Durango,2023,47165,Gasoline,39,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Compass,2024,34084,Gasoline,12,8-Speed Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,50184,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45842,Electric,5,1-Speed Automatic,SUV,4,Atlas,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,40380,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+Land Rover,Discovery Sport,2024,55353,Gasoline,8,9-Speed Automatic,SUV,4,Fuji White,Gray,All-wheel Drive
+Mercedes-Benz,Sprinter 3500,2024,72357,Diesel,9,9-Speed Automatic,Cargo Van,3,Gray White,Black,Rear-wheel Drive
+Hyundai,Tucson Hybrid,2024,34492,Hybrid,10,6-Speed Automatic,SUV,4,White Pearl,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,36000,Gasoline,10,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Atlas,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,53160,Gasoline,6,8-Speed Automatic,SUV,4,Midnight Sky,Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,59116,Gasoline,3,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+Jeep,Wrangler,2024,67510,Gasoline,10,Automatic,SUV,4,Anvil Clear Coat,Black,Four-wheel Drive
+Honda,Odyssey,2024,48187,Gasoline,4,10-Speed Automatic,Passenger Van,4,Radiant Red Metallic II,Beige,Front-wheel Drive
+Volkswagen,Jetta,2024,25923,Gasoline,25,8-Speed Automatic,Sedan,4,Opal White Pearl Effect,Black,Front-wheel Drive
+Jeep,Grand Cherokee,2024,50702,Gasoline,6,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Volvo,XC90 Recharge Plug-In Hybrid,2024,75595,Hybrid,6,8-Speed Automatic,SUV,4,Bright,Charcoal,All-wheel Drive
+Jeep,Wrangler 4xe,2024,51845,Hybrid,7,8-Speed Automatic,SUV,4,Pearlcoat,Black,Four-wheel Drive
+Cadillac,XT5,2024,60915,Gasoline,31,9-Speed Automatic,SUV,4,Silver Metallic,Jet Black,Front-wheel Drive
+RAM,3500,2024,71167,Diesel,9,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Hyundai,Santa Cruz,2024,41975,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+Jeep,Compass,2024,38481,Gasoline,8,8-Speed Automatic,SUV,4,Silver Zynith,Sepia / Black,Four-wheel Drive
+Hyundai,Sonata Hybrid,2024,32520,Hybrid,10,6-Speed Automatic,Sedan,4,Red,Gray,Front-wheel Drive
+Kia,Sorento,2023,48861,Gasoline,16,Automatic,SUV,4,Wolf Gray,Black,All-wheel Drive
+Chevrolet,Equinox,2024,31537,Gasoline,11,6-Speed Automatic,SUV,4,Summit White,Medium Ash Gray,All-wheel Drive
+Jeep,Grand Cherokee,2024,47175,Gasoline,0,Automatic,SUV,4,PAS Baltic Grey Metallic Clear Coat,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,51585,Hybrid,10,6-Speed Automatic,SUV,4,8 BALL,Black,All-wheel Drive
+Jeep,Wagoneer L,2023,86097,Gasoline,9711,8-Speed Automatic,SUV,4,Riverrock Green,Sea Salt,Four-wheel Drive
+Mercedes-Benz,EQS 450,2024,46835,Electric,4,Automatic,Sedan,4,Polar White,Macchiato Beige,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,114850,Electric,8,1-Speed Automatic,SUV,4,Bright White Clearcoat,Black,All-wheel Drive
+Nissan,Frontier,2024,37946,Gasoline,9,9-Speed Automatic,Pickup Truck,4,Glacier White,Charcoal,Rear-wheel Drive
+Chevrolet,Equinox,2024,31301,Gasoline,2,6-Speed Automatic,SUV,4,Mosaic Black Metallic,Jet Black,All-wheel Drive
+RAM,3500,2023,63010,Gasoline,95,8-Speed Automatic,Pickup Truck,2,Bright White Clearcoat,Black,Four-wheel Drive
+Nissan,Titan,2024,50030,Gasoline,1,Automatic,Pickup Truck,4,Gun Metallic,Black,Four-wheel Drive
+GMC,Savana 2500,2024,42990,Gasoline,0,8-Speed Automatic,Cargo Van,3,Summit White,Medium Pewter,Rear-wheel Drive
+Chevrolet,Equinox,2024,32635,Gasoline,0,6-Speed Automatic,SUV,4,Mosaic Black Metallic,Jet Black,Front-wheel Drive
+Nissan,Titan,2023,46672,Gasoline,1,Automatic,Pickup Truck,4,Super Black,Black,Four-wheel Drive
+Honda,HR-V,2024,27450,Gasoline,10,Automatic,SUV,4,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive
+Kia,Niro,2024,34310,Gasoline,13,6-SPEED AUTOMATIC,SUV,4,Aurora Black,Medium Gray,Front-wheel Drive
+Buick,Encore GX,2024,36190,Gasoline,7,9-Speed Automatic,SUV,4,Ocean Blue Metallic,Ebony,All-wheel Drive
+Mazda,CX-90 PHEV,2024,57849,PHEV Hybrid Fuel,4,Automatic,SUV,4,Jet Black Mica,Black,All-wheel Drive
+Ford,Edge,2024,44615,Gasoline,9,8-Speed Automatic,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive
+Kia,Sportage,2024,34985,Gasoline,10,8-Speed Automatic,SUV,4,Wolf Gray,Black,Front-wheel Drive
+Jeep,Compass,2024,28867,Gasoline,10,Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+RAM,ProMaster 2500,2024,53890,Gasoline,3,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Hyundai,IONIQ 6,2024,48510,Electric,12,Automatic,Sedan,4,White,Gray,All-wheel Drive
+Genesis,Electrified G80,2023,81525,Electric,153,1-Speed Automatic,Sedan,4,Uyuni White,Black,All-wheel Drive
+Hyundai,IONIQ 5,2024,52515,Electric,5,1-Speed Automatic,SUV,4,Gold,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35364,Hybrid,33,6-Speed Automatic,SUV,4,Phantom Black,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35885,Hybrid,15,6-Speed Automatic,SUV,4,Black Pearl,Black,All-wheel Drive
+Mercedes-Benz,GLE 450,2024,85630,Gasoline,7,9-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,47530,Gasoline,5,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Jeep,Wagoneer,2024,75888,Gasoline,8,8-Speed Automatic,SUV,4,Riverrock Green,Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49632,Gasoline,2,Automatic,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,55439,Hybrid,0,8-Speed Automatic,SUV,4,Artisan Red Metallic,Black,All-wheel Drive
+Volkswagen,Taos,2024,30618,Gasoline,11,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Deep Black Pearl Effect,Gray,All-wheel Drive
+Mercedes-Benz,GLS 450,2024,98180,Gasoline,5,9-Speed Automatic,SUV,4,Polar White,Beige / Black,All-wheel Drive
+Dodge,Hornet,2024,44604,Hybrid,5,6-Speed Automatic,SUV,4,8 BALL,Black,All-wheel Drive
+Acura,MDX,2024,57650,Gasoline,5,10-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Compass,2024,32269,Gasoline,0,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42466,Electric,7,1-Speed Automatic,SUV,4,Atlas,Black,All-wheel Drive
+Dodge,Hornet,2024,45051,Hybrid,5,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Land Rover,Discovery Sport,2024,57508,Gasoline,19,9-Speed Automatic,SUV,4,Eiger Grey,Gray,All-wheel Drive
+Ford,Transit-250,2024,51803,Gasoline,1,Automatic,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+Mercedes-Benz,EQS 450,2024,114160,Electric,5,1-Speed Automatic,SUV,4,Alpine Gray,Black,All-wheel Drive
+Acura,MDX,2024,56800,Gasoline,5,10-Speed Automatic,SUV,4,Gray,Black,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,52631,Gasoline,10,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+Jeep,Compass,2024,38500,Gasoline,8,8-Speed Automatic,SUV,4,Bright White,Black,Four-wheel Drive
+RAM,3500,2024,46835,Gasoline,98,8-Speed Automatic,Pickup Truck,2,Bright White Clearcoat,Black,Four-wheel Drive
+Chevrolet,Trax,2024,24680,Gasoline,5,6-Speed Automatic,SUV,4,Cayenne Orange Metallic,Jet Black,Front-wheel Drive
+BMW,i5,2024,96895,Electric,37,1-Speed Automatic,Sedan,4,Black Sapphire,Black,All-wheel Drive
+Jeep,Wrangler 4xe,2024,54490,Gasoline,2,Automatic,SUV,4,Bikini Pearl Coat,Black,Four-wheel Drive
+RAM,3500,2024,80095,Diesel,20,Automatic,Pickup Truck,4,Flame Red Clearcoat,Black,Four-wheel Drive
+Honda,Odyssey,2024,44350,Gasoline,0,Automatic,Passenger Van,4,Platinum White Pearl,Black,Front-wheel Drive
+RAM,ProMaster 3500,2023,66375,Gasoline,17,Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+BMW,i5,2024,93335,Electric,3,1-Speed Automatic,Sedan,4,Black Sapphire,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,57635,Gasoline,5,Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Chrysler,Pacifica,2023,45300,Gasoline,25,9-Speed 948TE Automatic,Minivan,4,Fathom Blue Pearlcoat,Black/Alloy/Black,Front-wheel Drive
+Jeep,Compass,2024,28860,Gasoline,11,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Dodge,Hornet,2024,34637,Gasoline,54,9-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,50184,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Wagoneer L,2024,87190,Gasoline,12,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,55399,Gasoline,2,8-Speed Automatic,SUV,4,Soul Red Crystal Metallic,Griege,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,41391,Hybrid,7,6-Speed Automatic,SUV,4,White Pearl,Gray,All-wheel Drive
+Ford,Bronco Sport,2024,30020,Gasoline,0,8-Speed Automatic,SUV,4,Oxford White,Ebony,Four-wheel Drive
+Chrysler,300,2023,46835,Gasoline,10,8-Speed Automatic,Sedan,4,Gloss Black,Black,Rear-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,19,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+BMW,i5,2024,74695,Electric,7,1-Speed Automatic,Sedan,4,Alpine White,Black,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,66360,Gasoline,27,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+Nissan,Kicks,2024,26500,Gasoline,15,CVT,SUV,4,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive
+Dodge,Durango,2023,53995,Gasoline,12,8-Speed Automatic,SUV,4,DB Black Clearcoat,Black,All-wheel Drive
+Land Rover,Defender,2024,77645,Gasoline,9,8-Speed Automatic,SUV,2,Gondwana Stone,Ebony,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,58648,Gasoline,3,8-Speed A/T,SUV,4,Anvil Clear Coat,Black,Four-wheel Drive
+Chrysler,Pacifica,2024,46450,Gasoline,42,9-Speed Automatic,Passenger Van,4,Bright White Clearcoat,Black,All-wheel Drive
+Jeep,Compass,2024,46835,Gasoline,0,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Ford,Edge,2024,41195,Gasoline,5,8-Speed Automatic,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive
+Jeep,Gladiator,2024,46791,Gasoline,12,Automatic,Pickup Truck,4,Black Clearcoat,Black,Four-wheel Drive
+GMC,Yukon XL,2024,76648,Gasoline,3,Automatic,SUV,4,WHITE,Black,Rear-wheel Drive
+Audi,SQ8 e-tron,2024,106215,Electric,12,Automatic,SUV,4,Mythos Black Metallic,Black,All-wheel Drive
+Dodge,Durango,2023,47165,Gasoline,31,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Audi,Q5 e,2024,78695,Gasoline,12,7-Speed Automatic S tronic,SUV,4,Silver Metallic,Black,All-wheel Drive
+BMW,X7,2024,115445,Gasoline,447,8-Speed Automatic,SUV,4,Mineral White Metallic,Black,All-wheel Drive
+Jeep,Compass,2024,34182,Gasoline,0,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Kia,Sorento Hybrid,2024,39390,Hybrid,10,Automatic,SUV,4,Steel Gray,Black,Front-wheel Drive
+Dodge,Hornet,2024,38546,Gasoline,73,9-Speed 948TE Automatic,SUV,4,8 Ball,Black,All-wheel Drive
+Kia,Seltos,2024,28630,Gasoline,15,Automatic CVT,SUV,4,Snow White Pearl,Black,All-wheel Drive
+RAM,2500,2024,61865,Gasoline,0,8-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Compass,2024,26860,Gasoline,3,8-Speed Automatic,SUV,4,Silver Zynith,Black,Four-wheel Drive
+Jeep,Compass,2024,29826,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,42597,Hybrid,5,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Kia,Niro,2024,37135,Hybrid,399,Automatic,SUV,4,Runway Red,Medium Gray,Front-wheel Drive
+Dodge,Hornet,2024,52180,Hybrid,10,6-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Dodge,Hornet,2024,30900,Gasoline,8,9-Speed Automatic,SUV,4,8 BALL,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,61506,Gasoline,3,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+Buick,Envision,2023,37135,Gasoline,6,9-Speed Automatic,SUV,4,White Frost Tri-Coat,Ebony,All-wheel Drive
+Ford,Escape,2024,33590,Hybrid,0,CVT,SUV,4,Agate Black,Ebony W/Red Stitching,Front-wheel Drive
+Ford,Escape,2024,41765,Hybrid,0,CVT,SUV,4,Star White Metallic Tri-Coat,Ebony,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,50377,Gasoline,7,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,65416,Gasoline,5,automatic w/paddle shifters,Pickup Truck,4,Slate Gray Metallic,Jet Black,Four-wheel Drive
+Hyundai,Santa Cruz,2024,43299,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Phantom Black,Dark Gray,All-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,5,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,47744,Gasoline,12,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,53455,Gasoline,0,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Ford,Transit-250,2024,52853,Gasoline,0,Automatic,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+Ford,Bronco,2024,69035,Gasoline,9,10-Speed Automatic,SUV,4,Azure Gray Metallic,Medium Sandstone,Four-wheel Drive
+Kia,Niro,2024,31860,Gasoline,17,A/T,SUV,4,Snow White Pearl,Medium Gray,Front-wheel Drive
+Subaru,Outback,2024,44354,Gasoline,8,Automatic CVT,SUV,4,Autumn Green,Gray,All-wheel Drive
+Hyundai,Elantra HEV,2024,27080,Hybrid,14,Automatic,Sedan,4,Serenity White,Medium Gray,Front-wheel Drive
+Acura,MDX,2024,56800,Gasoline,5,10-Speed Automatic,SUV,4,Black,Black,Front-wheel Drive
+Ford,Mustang Mach-E,2024,49770,Electric,10,1-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Ford,Mustang Mach-E,2023,46775,Electric,9,1-Speed Automatic,SUV,4,Carbonized Gray Metallic,Black Onyx,All-wheel Drive
+RAM,3500,2024,64214,Diesel,6,Automatic,Pickup Truck,4,Bright White Clearcoat,Black Interior Color,Four-wheel Drive
+RAM,3500,2024,82523,Diesel,8,Automatic,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+Mercedes-Benz,EQS 450,2024,117985,Electric,1,Automatic,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49496,Gasoline,2,Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,43135,Gasoline,9,Automatic,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+Jeep,Compass,2024,28867,Gasoline,8,Automatic,SUV,4,Silver Zynith Metallic Clearcoat,Black,Four-wheel Drive
+Kia,Sportage,2024,35490,Gasoline,10,8-Speed Automatic,SUV,4,Gravity Gray,Black,All-wheel Drive
+Honda,Prologue,2024,55800,Electric,8,1-Speed Automatic,SUV,4,Pearl,Black,All-wheel Drive
+Honda,Prologue,2024,55800,Electric,8,1-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,33109,Hybrid,15,6-Speed Automatic,SUV,4,Deep Sea,Gray,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949,PHEV Hybrid Fuel,8,Automatic,SUV,4,Gray,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,39832,Hybrid,25,6-Speed Automatic,SUV,4,Black Pearl,Gray,All-wheel Drive
+Hyundai,IONIQ 5,2024,51765,Electric,7,1-Speed Automatic,SUV,4,Teal,Dark Green,All-wheel Drive
+Ford,Mustang Mach-E,2024,45780,Electric,10,1-Speed Automatic,SUV,4,Vapor Blue Metallic,Black Onyx,All-wheel Drive
+RAM,2500,2024,46670,Gasoline,5,8-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Ford,Expedition,2024,88135,Gasoline,6,10-Speed Automatic,SUV,4,Black,Black Onyx,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45289,Electric,5,1-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Ford,Edge,2024,46835,Gasoline,823,8-Speed Automatic,SUV,4,Oxford White,Ebony,All-wheel Drive
+Jeep,Gladiator,2023,54210,Gasoline,0,8-Speed Automatic,Pickup Truck,4,High Velocity Clearcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,43585,Gasoline,5,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+Chrysler,Pacifica,2024,46163,Gasoline,8,9-Speed Automatic,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,49550,Hybrid,5,8-Speed Automatic,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+Volkswagen,Jetta,2024,22260,Gasoline,28,8-Speed Automatic,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+Dodge,Durango,2024,46835,Gasoline,21,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,47744,Gasoline,9,Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54899,Hybrid,12,8-Speed Automatic,SUV,4,Baltic Gray,Global Black,Four-wheel Drive
+RAM,3500,2024,84860,Diesel,6,6-Speed Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+RAM,2500,2024,71846,Diesel,5,Automatic,Pickup Truck,4,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,46490,Gasoline,21,6-Speed Automatic,SUV,4,Q Ball,Black,All-wheel Drive
+Ford,Mustang Mach-E,2024,51785,Electric,12,1-Speed Automatic,SUV,4,Star White,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49180,Gasoline,2,Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Hyundai,IONIQ 6,2024,50945,Electric,1,Automatic,Sedan,4,White,Black,All-wheel Drive
+Volkswagen,Taos,2024,35683,Gasoline,5,7-Speed DSG Automatic with Tiptronic,SUV,4,Blue,Brown/Blk,All-wheel Drive
+Ford,Expedition,2024,84190,Gasoline,6,10-Speed Automatic,SUV,4,White,Black Onyx,Four-wheel Drive
+Hyundai,Sonata Hybrid,2024,38870,Hybrid,5,6-Speed Automatic,Sedan,4,Carbon Blue,Black,Front-wheel Drive
+RAM,3500,2023,71999,Diesel,252,Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,47080,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,54226,Gasoline,2,Automatic,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+Jeep,Compass,2024,33255,Gasoline,10,8-Speed Automatic,SUV,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45373,Electric,3,1-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Jeep,Wrangler,2024,48612,Gasoline,10,Automatic,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+BMW,X7,2025,90945,Gasoline,4,8-Speed Automatic,SUV,4,Aventurin Red Metallic,Black,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,5,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,37100,Gasoline,1,8-Speed Automatic,Pickup Truck,4,Phantom Black,Gray,All-wheel Drive
+Mazda,CX-90 PHEV,2024,59205,Hybrid,3,8-Speed Automatic,SUV,4,Jet Black Mica,Black,All-wheel Drive
+Ford,Bronco Sport,2024,31390,Gasoline,13,Automatic,SUV,4,Carbonized Gray Metallic,Ebony,Four-wheel Drive
+Hyundai,Palisade,2024,46905,Gasoline,25,8-Speed Automatic,SUV,4,Steel / Graphite,Gray / Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,36499,Gasoline,10,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+BMW,i4 Gran Coupe,2024,79300,Electric,5,1-Speed Automatic,Hatchback,4,Blue,Oyster,All-wheel Drive
+RAM,2500,2024,74990,Diesel,15,Automatic,Pickup Truck,4,Olive Green Pearlcoat,Black,Four-wheel Drive
+Honda,CR-V Hybrid,2024,40355,Hybrid,68,Automatic CVT,SUV,4,Platinum White Pearl,Black,All-wheel Drive
+Jeep,Grand Cherokee,2023,43000,Gasoline,16,8-speed automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,46835,Gasoline,8,9-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Hyundai,Sonata Hybrid,2024,38870,Hybrid,9,6-Speed Automatic,Sedan,4,Red,Black,Front-wheel Drive
+BMW,740,2024,103045,Gasoline,19,8-Speed Automatic,Sedan,4,Black Sapphire Metallic,Black,Rear-wheel Drive
+Volkswagen,Taos,2024,28997,Gasoline,3,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Blue Dusk,Black,All-wheel Drive
+Volkswagen,Taos,2024,29066,Gasoline,5,8-Speed Automatic with Tiptronic,SUV,4,Pure White,Black,Front-wheel Drive
+RAM,3500,2024,46835,Diesel,23,6-Speed Automatic,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+GMC,Terrain,2024,33092,Gasoline,0,9-Speed Automatic,SUV,4,Volcanic Red,Jet Black,All-wheel Drive
+Hyundai,Palisade,2024,47100,Gasoline,26,8-Speed Automatic,SUV,4,Hyper White,Black,All-wheel Drive
+Volkswagen,Taos,2024,32406,Gasoline,11,8-speed automatic,SUV,4,Deep Black Pearl,Black,Front-wheel Drive
+Ford,Explorer,2024,40145,Gasoline,9,10-Speed Automatic,SUV,4,Carbonized Gray Metallic,Ebony,Rear-wheel Drive
+Nissan,Kicks,2024,24600,Gasoline,15,CVT,SUV,4,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,69201,Hybrid,11,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Tupelo,Four-wheel Drive
+Nissan,Versa,2024,17994,Gasoline,8,Automatic CVT,Sedan,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+Ford,Escape,2024,40630,Gasoline,7,8-Speed Automatic,SUV,4,Iconic Silver Metallic,Red,All-wheel Drive
+Jeep,Grand Cherokee,2024,49075,Gasoline,1,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Volkswagen,Jetta,2024,23160,Gasoline,7,8-Speed Automatic with Tiptronic,Sedan,4,Deep Black Pearl,Titan Black,Front-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,31,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Ford,Mustang Mach-E,2024,52180,Electric,25,1-Speed Automatic,SUV,4,Glacier Gray,Black,All-wheel Drive
+Hyundai,IONIQ 5,2024,59255,Electric,10,1-Speed Automatic,SUV,4,Blue,Gray,All-wheel Drive
+Ford,Transit-250,2024,51803,Gasoline,1,Automatic,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,67784,Hybrid,35,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Hyundai,Santa Cruz,2024,40449,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive
+Chevrolet,Equinox,2024,30188,Gasoline,3,6-Speed Automatic Electronic with Overdrive,SUV,4,Sterling Gray Metallic,Medium Ash Gray,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,59420,Gasoline,5,Automatic,SUV,4,Artisan Red Premium,Black,All-wheel Drive
+Mazda,CX-90 PHEV,2024,60080,Gasoline,5,8-Speed Automatic,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+Buick,Envision,2023,42785,Gasoline,13,9-Speed Automatic,SUV,4,Ebony Twilight Metallic,Ebony,All-wheel Drive
+Audi,Q8 e-tron,2024,84530,Electric,5,Automatic,SUV,4,Glacier White Metallic,Okapi Brown,All-wheel Drive
+Dodge,Durango,2023,47280,Gasoline,13,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Jeep,Compass,2024,30525,Gasoline,0,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Honda,Passport,2024,44850,Gasoline,3,9-Speed Automatic,SUV,4,Sky,Black,All-wheel Drive
+Cadillac,LYRIQ,2024,83665,Electric,728,Automatic,SUV,4,Crystal White Tricoat,Noir w/Santorini Blue Accents,Rear-wheel Drive
+Nissan,Titan,2024,47105,Gasoline,5,Automatic,Pickup Truck,4,Glacier White,Black,Four-wheel Drive
+Jeep,Compass,2024,38736,Gasoline,12,8-Speed Automatic,SUV,4,Laser Blue Pearlcoat,Black,Four-wheel Drive
+Jeep,Compass,2024,28265,Gasoline,7,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,58230,Hybrid,17,8-Speed Automatic,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,67190,Hybrid,12,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45738,Electric,5,1-Speed Automatic,SUV,4,Atlas,Gray,All-wheel Drive
+Ford,Escape,2024,30278,Gasoline,0,8-Speed Shiftable Automatic,SUV,4,Iconic Silver,Ebony,Front-wheel Drive
+Ford,Escape,2024,34572,Gasoline,10,8-Speed Automatic,SUV,4,Star White,Ebony,All-wheel Drive
+Jeep,Wrangler 4xe,2024,66960,Hybrid,5,8-Speed Automatic,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+Jeep,Compass,2024,31535,Gasoline,7,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Chevrolet,Equinox,2024,30955,Gasoline,3,Automatic,SUV,4,Summit White,Medium Ash Gray,All-wheel Drive
+Dodge,Hornet,2024,34698,Gasoline,10,9-Speed Automatic,SUV,4,Gold,Black,All-wheel Drive
+Ford,Escape,2024,32138,Gasoline,10,8-Speed Automatic,SUV,4,Iconic Silver Metallic,Ebony,All-wheel Drive
+Ford,Transit-250,2024,61248,Gasoline,0,Automatic,Cargo Van,3,Oxford White,Gray,Rear-wheel Drive
+Ford,Mustang Mach-E,2024,46920,Electric,10,1-Speed Automatic,SUV,4,Green,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,40925,Gasoline,0,Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,76475,Gasoline,2,10-Speed Automatic,Pickup Truck,4,Summit White,Gray,Four-wheel Drive
+Ford,Mustang Mach-E,2023,45525,Electric,10,1-Speed Automatic,SUV,4,Gray,Gray,All-wheel Drive
+Jeep,Grand Cherokee,2024,65360,Gasoline,0,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Tupelo/Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,47650,Gasoline,5,10-Speed Automatic,Pickup Truck,4,Summit White,Black,Four-wheel Drive
+Honda,Odyssey,2024,41705,Gasoline,4,10-Speed Automatic,Passenger Van,4,Lunar Silver Metallic,Gray,Front-wheel Drive
+Hyundai,IONIQ 5,2024,54495,Electric,10,1-Speed Automatic,SUV,4,Gold,Gray,All-wheel Drive
+Hyundai,Elantra HEV,2024,30335,Hybrid,0,Automatic,Sedan,4,Gray Pearl,Melange,Front-wheel Drive
+Hyundai,Tucson Hybrid,2024,33695,Hybrid,11,6-Speed Automatic,SUV,4,White Pearl,Black,All-wheel Drive
+Volkswagen,Jetta,2024,29374,Gasoline,28,8-Speed Automatic,Sedan,4,Opal White Pearl Effect,Volcano Brown,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,51350,Hybrid,8,8-Speed Automatic,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,35744,Hybrid,15,6-Speed Automatic,SUV,4,Black Pearl,Gray,All-wheel Drive
+Jeep,Wrangler 4xe,2023,63715,Hybrid,8,8-Speed Automatic,SUV,4,Silver Zynith Clearcoat,Black,Four-wheel Drive
+Hyundai,Elantra HEV,2024,25975,Hybrid,15,6-Speed DCT Automatic,Sedan,4,Gray Pearl,Black,Front-wheel Drive
+Hyundai,IONIQ 6,2023,39997,Electric,27,1-Speed Automatic,Sedan,4,Onyx Black,Black,All-wheel Drive
+Toyota,Tundra Hybrid,2024,68256,Hybrid,10,10-Speed Automatic,Pickup Truck,4,Celestial Silver Metallic,Black SofTex-trimmed [softex],Four-wheel Drive
+RAM,ProMaster 3500,2024,67749,Gasoline,181,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,49735,Gasoline,0,8-Speed Automatic,SUV,4,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive
+Dodge,Hornet,2024,49885,Hybrid,2,6-Speed Automatic,SUV,4,Gold,Black,All-wheel Drive
+Toyota,Corolla Cross,2024,30499,Gasoline,1,Automatic CVT,SUV,4,CELESTITE,Ash,All-wheel Drive
+Kia,EV6,2024,41991,Electric,14,Automatic,SUV,4,Glacier,Black,All-wheel Drive
+Ford,Explorer,2024,40145,Gasoline,9,10-Speed Automatic,SUV,4,Iconic Silver Metallic,Ebony,Rear-wheel Drive
+Mazda,CX-90 PHEV,2024,54939,PHEV Hybrid Fuel,3,Automatic,SUV,4,Rhodium,Greige,All-wheel Drive
+Jeep,Wagoneer L,2024,83845,Gasoline,8,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2023,58665,Gasoline,0,Automatic,Cargo Van,3,Bright White Clearcoat,Black,Rear-wheel Drive
+Dodge,Durango,2023,46835,Gasoline,23,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+Chevrolet,Equinox EV,2024,47495,Electric,0,Automatic,SUV,4,Sterling Gray Metallic,Black,Front-wheel Drive
+Jeep,Grand Wagoneer,2024,124250,Gasoline,0,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,65129,Diesel,0,Automatic,Pickup Truck,3,Bright White Clearcoat,Black,Rear-wheel Drive
+Ford,Mustang Mach-E,2024,49785,Electric,5,1-Speed Automatic,SUV,4,Glacier Gray,Black,All-wheel Drive
+Cadillac,XT5,2024,47225,Gasoline,5,9-Speed Automatic,SUV,4,Stellar Black Metallic,Jet Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,31610,Gasoline,3,8-Speed Automatic,Pickup Truck,4,Sage Gray,Black,All-wheel Drive
+Toyota,Tundra Hybrid,2024,72977,Hybrid,7,10-Speed Automatic,Pickup Truck,4,Smoked Mesquite,Tan,Four-wheel Drive
+Dodge,Hornet,2024,36734,Gasoline,14,9-Speed 948TE Automatic,SUV,4,Blu Bayou,Black,All-wheel Drive
+RAM,3500,2024,61330,Diesel,6,6-Speed Automatic,Pickup Truck,2,Flame Red Clearcoat,Black,Four-wheel Drive
+Hyundai,Kona,2024,32009,Gasoline,1,Automatic CVT,SUV,4,Atlas,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49229,Gasoline,17,Automatic,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+INFINITI,QX55,2023,54200,Gasoline,0,Automatic CVT,SUV,4,Graphite Shadow,Graphite,All-wheel Drive
+Jeep,Compass,2023,25999,Gasoline,14,Automatic,SUV,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,56995,Gasoline,30,Automatic,SUV,4,Rhodium White Premium,Black,All-wheel Drive
+Chevrolet,Equinox,2024,34472,Gasoline,6,6-Speed Automatic,SUV,4,Radiant Red,Jet Black,All-wheel Drive
+Nissan,Kicks,2024,25410,Gasoline,12,Automatic CVT,SUV,4,Boulder Gray Metallic,Charcoal,Front-wheel Drive
+Dodge,Hornet,2024,46835,Hybrid,18,6-Speed Automatic,SUV,4,HOT TAMALE,Black,All-wheel Drive
+Dodge,Hornet,2024,49885,Hybrid,8,6-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Toyota,Corolla,2024,22623,Gasoline,8,Automatic CVT,Sedan,4,Silver,Black,Front-wheel Drive
+Hyundai,IONIQ 5,2024,45830,Electric,0,Automatic,SUV,4,Atlas,Gray,All-wheel Drive
+Volkswagen,Jetta,2024,29895,Gasoline,10,8-Speed Automatic with Tiptronic,Sedan,4,Deep Black Pearl,Titan Black,Front-wheel Drive
+Hyundai,IONIQ 5,2024,44713,Electric,13,1-Speed Automatic,SUV,4,Atlas,Gray,All-wheel Drive
+RAM,ProMaster 3500,2024,68095,Gasoline,186,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Volkswagen,Jetta,2024,24348,Gasoline,7,8-Speed Automatic with Tiptronic,Sedan,4,Pure White,Titan Black,Front-wheel Drive
+RAM,3500,2024,65260,Diesel,15,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+GMC,Terrain,2024,40980,Gasoline,0,9-Speed Automatic,SUV,4,White Frost Tri-Coat,Light Platinum,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,37275,Hybrid,5,6-Speed Automatic,SUV,4,Amazon Gray,Gray,All-wheel Drive
+RAM,3500,2024,72294,Diesel,33,Automatic,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,51625,Gasoline,5,8-Speed Automatic,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+Hyundai,Kona,2024,30829,Gasoline,15,8-Speed Automatic,SUV,4,Abyss Black Pearl,Black,Front-wheel Drive
+Dodge,Hornet,2024,44826,Hybrid,5,6-Speed Automatic,SUV,4,HOT TAMALE,Black,All-wheel Drive
+Dodge,Hornet,2024,38122,Gasoline,18,9-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,47451,Gasoline,3,Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,58840,Hybrid,4,8-Speed Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+Dodge,Hornet,2024,32837,Gasoline,10,Automatic,SUV,4,8 Ball,Black,All-wheel Drive
+Ford,Bronco Sport,2024,31390,Gasoline,9,Automatic,SUV,4,Eruption Green Metallic,Bk,Four-wheel Drive
+Chrysler,Pacifica,2024,54403,Gasoline,14,9-Speed Automatic,Passenger Van,4,Diamond Black,Black,All-wheel Drive
+Toyota,Tundra Hybrid,2024,71146,Hybrid,10,10-Speed Automatic,Pickup Truck,4,Supersonic Red,Black,Rear-wheel Drive
+Jeep,Wagoneer,2024,84935,Gasoline,1,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Ford,F-150,2023,52495,Gasoline,26,10-Speed Automatic,Pickup Truck,4,Oxford White,Black,Four-wheel Drive
+RAM,2500,2024,61481,Diesel,15,6-Speed A/T,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,51700,Gasoline,5,8-Speed Automatic,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,42947,Gasoline,5,8-Speed Automatic,Pickup Truck,4,Red,Black,Rear-wheel Drive
+Dodge,Hornet,2024,34329,Gasoline,6,Automatic,SUV,4,Q Ball,Black,All-wheel Drive
+RAM,3500,2024,62154,Gasoline,197,8-Speed Automatic,Pickup Truck,2,Bright White Clearcoat,Diesel Gray / Black,Four-wheel Drive
+Audi,A3,2024,39375,Gasoline,76,7-Speed Automatic with Auto-Shift,Sedan,4,Florett Silver Metallic,Black,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,65295,Hybrid,26,8-Speed Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,64930,Hybrid,12,8-Speed Automatic,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+Ford,Mustang Mach-E,2023,46540,Electric,6,1-Speed Automatic,SUV,4,Shadow Black,Black Onyx,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949,PHEV Hybrid Fuel,3,Automatic,SUV,4,Machine,Black,All-wheel Drive
+Dodge,Hornet,2024,47142,Hybrid,0,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,41955,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Atlas,Black,All-wheel Drive
+Ford,Escape,2024,36860,Gasoline,8,8-Speed A/T,SUV,4,Vapor Blue Metallic,Ebony,All-wheel Drive
+RAM,3500,2024,76300,Diesel,6,6-Speed Automatic,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+RAM,ProMaster 3500,2024,68095,Gasoline,188,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Ford,F-150,2024,45605,Gasoline,8,Automatic,Pickup Truck,4,Oxford White,Black,Four-wheel Drive
+Nissan,Kicks,2024,24305,Gasoline,15,CVT,SUV,4,Gun Metallic,Charcoal,Front-wheel Drive
+Ford,Explorer,2024,46870,Gasoline,2500,10-Speed Automatic,SUV,4,Star White,Sandstone,Rear-wheel Drive
+Hyundai,Kona,2024,33840,Gasoline,8,8-Speed Automatic,SUV,4,Orange Pearl,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,50058,Gasoline,2,Automatic,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+Honda,CR-V Hybrid,2024,37505,Hybrid,0,Automatic CVT,SUV,4,Platinum White Pearl,Black,Front-wheel Drive
+Hyundai,Sonata Hybrid,2024,33005,Hybrid,13,6-Speed Automatic,Sedan,4,White,Black,Front-wheel Drive
+Acura,MDX,2024,53700,Gasoline,5,10-Speed Automatic,SUV,4,Silver,Black,All-wheel Drive
+Mercedes-Benz,Sprinter 3500,2024,62295,Diesel,8,Automatic,Cargo Van,3,Iridium Silver,Black,Rear-wheel Drive
+GMC,Sierra 2500,2024,90220,Diesel,0,10-Speed Automatic,Pickup Truck,4,Onyx Black,Jet Black,Four-wheel Drive
+Hyundai,Santa Cruz,2024,46835,Gasoline,13,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Atlas,Black,All-wheel Drive
+Jeep,Compass,2024,33696,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,54641,Gasoline,23,8-Speed Automatic,SUV,4,Diamond Black,Beige / Black,Rear-wheel Drive
+Cadillac,LYRIQ,2024,60115,Electric,1,1-Speed Automatic,SUV,4,Emerald,Black,Rear-wheel Drive
+Hyundai,Tucson,2024,32750,Gasoline,3425,8-Speed Automatic,SUV,4,White Pearl,Gray,Front-wheel Drive
+Mercedes-Benz,GLE 350,2024,46835,Gasoline,10,9-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Mazda,CX-90 PHEV,2024,50595,Hybrid,1,8-Speed Automatic,SUV,4,Rhodium White Metallic,Black,All-wheel Drive
+Ford,Explorer,2025,53915,Gasoline,8,10-Speed Automatic,SUV,4,Star White Metallic Tri-Coat,Mojave Dusk/Onyx,Rear-wheel Drive
+Jeep,Wagoneer,2024,77473,Gasoline,14,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+INFINITI,QX50,2024,49404,Gasoline,7,(CVT) CONT VAR.,SUV,4,Radiant White,Monaco Red,Front-wheel Drive
+Hyundai,Elantra HEV,2024,30870,Hybrid,9,Automatic,Sedan,4,White,Black,Front-wheel Drive
+Buick,Enclave,2024,56872,Gasoline,0,9-Speed Automatic,SUV,4,Ebony Twilight Metallic,Dark Galvanized,All-wheel Drive
+Jeep,Compass,2024,34730,Gasoline,0,8-Speed Automatic,SUV,4,Metallic,Black,Four-wheel Drive
+Chrysler,Pacifica,2024,55183,Gasoline,13,9-Speed Automatic,Passenger Van,4,Bright White Clearcoat,Black,All-wheel Drive
+Hyundai,Tucson,2024,32625,Gasoline,2077,8-Speed Automatic,SUV,4,White Pearl,Gray,Front-wheel Drive
+Nissan,Versa,2024,20849,Gasoline,6,Automatic CVT,Sedan,4,Cloud White,Charcoal,Front-wheel Drive
+Audi,A5 Sportback,2024,52405,Gasoline,10,7-Speed Automatic with Auto-Shift,Hatchback,4,Glacier White Metallic,Black,All-wheel Drive
+RAM,3500,2024,67159,Diesel,21,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Ford,Edge,2024,40260,Gasoline,3,8-Speed Automatic,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive
+Mercedes-Benz,GLS 450,2024,95230,Gasoline,8,9-Speed Automatic,SUV,4,Polar White,Macchiato Beige,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35835,Hybrid,10,6-Speed Automatic,SUV,4,Black Pearl,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35775,Hybrid,10,6-Speed Automatic,SUV,4,Amazon Gray,Gray,All-wheel Drive
+RAM,3500,2024,72600,Diesel,6,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,47410,Gasoline,5,10-Speed Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Kia,Niro,2024,30935,Hybrid,11,6-Speed Automatic,SUV,4,Snow White Pearl,Charcoal,Front-wheel Drive
+Jeep,Compass,2024,27087,Gasoline,9,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Ford,Edge,2024,46835,Gasoline,5,8-Speed Automatic,SUV,4,Iconic Silver,Ebony,All-wheel Drive
+RAM,3500,2024,78895,Diesel,7,Aisin 6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Ford,Edge,2024,44710,Gasoline,48,8-Speed Automatic,SUV,4,Rapid Red Metallic Tinted Clearcoat,Medium Soft Ceramic,All-wheel Drive
+Nissan,Sentra,2024,21637,Gasoline,4,Automatic,Sedan,4,Gun Metallic,Charcoal,Front-wheel Drive
+Kia,Seltos,2024,28535,Gasoline,15,Automatic CVT,SUV,4,White,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,50923,Gasoline,4,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+Nissan,Versa,2024,21889,Gasoline,6,Automatic CVT,Sedan,4,Electric Blue Metallic,Gray,Front-wheel Drive
+Hyundai,Kona,2024,29182,Gasoline,0,Automatic CVT,SUV,4,Cyber Gray Metallic,Black,Front-wheel Drive
+Nissan,Kicks,2024,21123,Gasoline,6,CVT with Xtronic,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+RAM,3500,2024,63518,Diesel,24,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive
+RAM,3500,2024,79934,Diesel,22,Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,22,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,46243,Gasoline,175,Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,42876,Hybrid,147,6-Speed Automatic,SUV,4,8 BALL,Black,All-wheel Drive
+GMC,Sierra 3500,2024,102287,Diesel,4,10-Speed Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,55020,Gasoline,5,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,40344,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+Hyundai,Kona,2024,33491,Gasoline,12,8-Speed Automatic,SUV,4,Abyss Black Pearl,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,40754,Hybrid,12,Automatic,SUV,4,Black Pearl,Black,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,111245,Electric,10,1-Speed Automatic,Sedan,4,White,Black,All-wheel Drive
+Jaguar,I-PACE,2024,77053,Electric,8,Automatic,SUV,5,Santorini Black,Ebony,All-wheel Drive
+RAM,3500,2024,83640,Diesel,6,Automatic,Pickup Truck,4,Red,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,46246,Electric,7,1-Speed Automatic,SUV,4,Cyber Gray,Gray,All-wheel Drive
+Toyota,RAV4 Prime,2024,50209,Hybrid,0,Automatic CVT,SUV,4,Silver Sky Metallic,Black,All-wheel Drive
+RAM,2500,2024,69720,Gasoline,0,8-Speed Automatic,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,88478,Gasoline,2,Automatic,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+Hyundai,Kona,2024,35389,Gasoline,1,8-Speed Automatic,SUV,4,Cyber Gray Metallic,Gray,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,36600,Hybrid,12,Automatic,SUV,4,Black Pearl,Black w/Red Accents,All-wheel Drive
+Jeep,Grand Wagoneer,2023,110150,Gasoline,650,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,67105,Gasoline,3,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,36600,Hybrid,10,Automatic,SUV,4,Titan Gray,Black w/Red Accents,All-wheel Drive
+BMW,i4 Gran Coupe,2024,72435,Electric,5,1-Speed Automatic,Hatchback,4,White,Tacora Red,All-wheel Drive
+Mazda,CX-90 PHEV,2024,50955,PHEV Hybrid Fuel,0,Automatic,SUV,4,Machine,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,40434,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive
+Kia,Sportage,2024,30740,Gasoline,1,8-Speed Automatic,SUV,4,Black,Black,Front-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,66902,Diesel,10,Automatic,Cargo Van,3,Gray,Black,Rear-wheel Drive
+Hyundai,IONIQ 5,2024,59255,Electric,10,1-Speed Automatic,SUV,4,Black,Gray,All-wheel Drive
+Cadillac,LYRIQ,2024,75090,Electric,9,Automatic,SUV,4,Celestial Metallic,Noir w/Santorini Blue Accents,Rear-wheel Drive
+Chevrolet,Silverado 1500,2024,54190,Gasoline,5,10-Speed Automatic,Pickup Truck,4,Dark Ash Metallic,Black,Four-wheel Drive
+GMC,Sierra 2500,2024,47763,Gasoline,0,10-Speed Automatic,Pickup Truck,2,Summit White,Jet Black,Rear-wheel Drive
+RAM,3500,2024,68600,Diesel,0,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black / Diesel Gray,Four-wheel Drive
+Hyundai,IONIQ 6,2023,53820,Electric,129,Automatic,Sedan,4,Gravity Gold Matte,Gray,All-wheel Drive
+Mercedes-Benz,GLE 450,2024,74290,Gasoline,6,9-Speed Automatic,SUV,4,Polar White,Black,All-wheel Drive
+Jeep,Compass,2024,33668,Gasoline,8,8-Speed Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+Dodge,Durango,2023,47785,Gasoline,32,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Jeep,Wagoneer,2024,89595,Gasoline,1,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Ford,Mustang Mach-E,2024,55485,Electric,3,1-Speed Automatic,SUV,4,Star White,Gray,All-wheel Drive
+Dodge,Hornet,2024,43524,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4,8 Ball,Black,All-wheel Drive
+Ford,Escape,2024,33071,Gasoline,4,8-Speed Automatic,SUV,4,Oxford White,Space Gray,All-wheel Drive
+Hyundai,Santa Cruz,2024,30490,Gasoline,1,8-Speed Automatic,Pickup Truck,4,Atlas,Gray,All-wheel Drive
+RAM,ProMaster 3500,2023,61006,Gasoline,5,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Hyundai,Santa Cruz,2024,43684,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+Chrysler,Voyager,2024,38954,Gasoline,8,9-Speed Automatic,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+GMC,Sierra 1500,2024,59466,Gasoline,0,10-Speed Automatic,Pickup Truck,4,Volcanic Red,Jet Black,Four-wheel Drive
+Ford,Transit Connect,2023,38036,Gasoline,4,8-Speed Automatic,Cargo Van,4,Frozen White,Ebony,Front-wheel Drive
+Toyota,Tundra Hybrid,2024,60573,Hybrid,1,10-Speed Automatic,Pickup Truck,4,Magnetic Gray Metallic,Boulder,Four-wheel Drive
+RAM,2500,2024,59620,Gasoline,0,Automatic,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+Jeep,Compass,2024,28860,Gasoline,7,8-Speed Automatic,SUV,4,Silver Zynith,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42295,Electric,0,Automatic,SUV,4,Atlas,Gray,Rear-wheel Drive
+Jeep,Compass,2024,41230,Gasoline,9,Automatic,SUV,4,Sting-Gray Clearcoat,Ruby Red/Black,Four-wheel Drive
+Jeep,Gladiator,2023,54210,Gasoline,0,8-Speed Automatic,Pickup Truck,4,Sarge Green Clearcoat,Black,Four-wheel Drive
+Hyundai,IONIQ 5,2024,44565,Electric,7,1-Speed Automatic,SUV,4,Gold,Gray,All-wheel Drive
+Hyundai,Kona,2024,29111,Gasoline,11,Automatic CVT,SUV,4,Mirage,Gray,Front-wheel Drive
+GMC,Sierra 2500,2024,96860,Diesel,0,10-Speed Automatic,Pickup Truck,4,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive
+Kia,Sportage,2024,34635,Gasoline,1,8-Speed Automatic,SUV,4,White,Black,Front-wheel Drive
+Ford,Maverick,2024,41045,Gasoline,4,8-Speed Automatic,Pickup Truck,4,Cactus Green / Gray,Black,All-wheel Drive
+Jeep,Wagoneer,2024,79487,Gasoline,18,8-Speed Automatic,SUV,4,Riverrock Green,Black,Four-wheel Drive
+Volkswagen,Jetta,2024,23160,Gasoline,13,8-Speed Automatic with Tiptronic,Sedan,4,Pure White,Titan Black,Front-wheel Drive
+Jeep,Wagoneer L,2024,74366,Gasoline,4,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,40979,Hybrid,12,6-Speed Automatic,SUV,4,Amazon Gray,Black,All-wheel Drive
+Ford,Edge,2024,39025,Gasoline,5,Automatic,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive
+Hyundai,IONIQ 5,2024,45269,Electric,4,1-Speed Automatic,SUV,4,Teal,Gray,All-wheel Drive
+Jeep,Wagoneer L,2024,81160,Gasoline,4,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Ford,Edge,2024,46835,Gasoline,1342,8-Speed Automatic,SUV,4,Metallic,Ebony,All-wheel Drive
+Nissan,Versa,2024,21195,Gasoline,0,CVT,Sedan,4,Aspen White Tricoat,Graphite,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,63440,Hybrid,5,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Hyundai,Kona,2024,33969,Gasoline,0,8-Speed Automatic,SUV,4,Red Metallic,Gray,Front-wheel Drive
+Ford,Edge,2024,38598,Gasoline,10,Automatic,SUV,4,Carbonized Gray Metallic,Dune,All-wheel Drive
+GMC,Sierra 1500,2024,84405,Gasoline,12,10-Speed Automatic,Pickup Truck,4,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive
+Jeep,Grand Cherokee,2024,52810,Gasoline,5,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,63145,Diesel,5,10-Speed Automatic,Pickup Truck,4,Slate Gray Metallic,Black,Four-wheel Drive
+GMC,Terrain,2024,34940,Gasoline,0,9-Speed Automatic,SUV,4,Ebony Twilight Metallic,Jet Black,All-wheel Drive
+Dodge,Hornet,2024,37498,Gasoline,12,Automatic,SUV,4,8 Ball,Black,All-wheel Drive
+RAM,3500,2024,58950,Diesel,12,6-Speed Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Volkswagen,Taos,2024,32751,Gasoline,51,7-Speed DSG Automatic with Tiptronic,SUV,4,Deep Black Pearl,Black,All-wheel Drive
+Dodge,Charger,2023,41890,Gasoline,18,8-Speed Automatic,Sedan,4,Silver,Black,All-wheel Drive
+Jeep,Compass,2024,38000,Gasoline,10,Automatic,SUV,4,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive
+Ford,Transit-350,2023,57000,Gasoline,5581,10-Speed Automatic,Cargo Van,3,White,Gray,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,48201,Gasoline,10,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Audi,Q5 e,2024,73360,Gasoline,12,7-Speed Automatic S tronic,SUV,4,Glacier White,Black,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,33,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+RAM,3500,2024,64111,Diesel,6,Automatic,Pickup Truck,4,Black,Black Interior Color,Four-wheel Drive
+Kia,Sorento,2024,33590,Gasoline,12,8-Speed Automatic,SUV,4,Ebony Black,Black,Front-wheel Drive
+INFINITI,QX50,2024,46855,Gasoline,11,Variable,SUV,4,Radiant White,Pebble Gray,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,58779,Gasoline,10,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Subaru,Outback,2024,32490,Gasoline,8,Automatic CVT,SUV,4,Crystal White Pearl,Black,All-wheel Drive
+Ford,Edge,2024,45995,Gasoline,4723,8-Speed Automatic,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive
+Nissan,Pathfinder,2024,42155,Gasoline,6,Automatic,SUV,4,Deep Ocean Blue Pearl,Charcoal,Four-wheel Drive
+Jeep,Grand Cherokee,2024,47030,Gasoline,5,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee,2024,42425,Gasoline,5,8-Speed Automatic,SUV,4,Silver Zynith,Black,Four-wheel Drive
+Dodge,Hornet,2024,42436,Gasoline,18,9-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,46835,Gasoline,10,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,56015,Gasoline,8,Automatic,SUV,4,Baltic Gray Metallic Clearcoat,Wicker Beige/Global Black,Four-wheel Drive
+BMW,530,2024,46835,Gasoline,5,8-Speed Automatic,Sedan,4,Mineral White Metallic,Espresso,Rear-wheel Drive
+Acura,MDX,2024,52350,Gasoline,16,10-Speed Automatic,SUV,4,Silver,Black,All-wheel Drive
+Kia,EV6,2024,41991,Electric,13,Automatic,SUV,4,Aurora Black Pearl,Black,All-wheel Drive
+Honda,HR-V,2024,25950,Gasoline,14,Automatic,SUV,4,Modern Steel Metallic,Nh-797m/Black,Front-wheel Drive
+Honda,Passport,2024,46350,Gasoline,0,9-Speed Automatic,SUV,4,Sky,Black,All-wheel Drive
+Honda,HR-V,2024,27450,Gasoline,5,Automatic,SUV,4,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive
+Kia,Sportage,2024,33375,Gasoline,148,8-Speed Automatic,SUV,4,Ebony Black,Gray,All-wheel Drive
+Kia,Sportage,2024,39935,Gasoline,12,8-Speed Automatic,SUV,4,Glacier White Pearl,Black,All-wheel Drive
+Kia,Sportage,2024,35435,Gasoline,16,8-Speed Automatic,SUV,4,Gravity Gray,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,56119,Hybrid,20,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,36810,Gasoline,15,9-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Dodge,Hornet,2024,35585,Gasoline,0,Automatic,SUV,4,Blue Steele,Black,All-wheel Drive
+Hyundai,Santa Cruz,2024,40375,Gasoline,1,8-Speed Automatic with Auto-Shift,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive
+Jeep,Compass,2024,35835,Gasoline,14,8-Speed Automatic,SUV,4,White,Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,41720,Hybrid,10,6-Speed Automatic,SUV,4,Amazon Gray,Gray,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,41720,Hybrid,10,6-Speed Automatic,SUV,4,Deep Sea,Gray,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,62255,Hybrid,26,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Audi,A5 Sportback,2024,57835,Gasoline,12,7-Speed Automatic with Auto-Shift,Hatchback,4,Mythos Black Metallic,Okapi Brown,All-wheel Drive
+Jeep,Grand Wagoneer,2024,108537,Gasoline,4501,8-Speed Automatic,SUV,4,Bright White Clearcoat,Tupelo,Four-wheel Drive
+RAM,3500,2024,63609,Diesel,13,Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Ford,Transit-250,2024,64025,Gasoline,0,Automatic,Cargo Van,3,Oxford White,Dk Palazzo Gry Clth Front,All-wheel Drive
+RAM,3500,2024,86420,Diesel,10,Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+RAM,2500,2024,77525,Gasoline,0,8-Speed Automatic,Pickup Truck,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+Dodge,Hornet,2024,36195,Gasoline,5,9-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Kia,Sportage,2024,35040,Gasoline,1,8-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Jeep,Wagoneer,2024,64434,Gasoline,20,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive
+RAM,3500,2024,67422,Diesel,27,6-Speed Automatic,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+Cadillac,LYRIQ,2024,60310,Electric,4,1-Speed Automatic,SUV,4,Crystal White Tri-Coat,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,61179,Hybrid,26,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2023,67650,Hybrid,555,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,61276,Diesel,10,9-Speed Automatic,Cargo Van,3,Arctic White,Black,Rear-wheel Drive
+BMW,X7,2024,94895,Gasoline,1946,8-Speed Automatic,SUV,4,Tanzanite Blue II Metallic,Silverstone,All-wheel Drive
+Kia,Seltos,2024,31490,Gasoline,350,8-Speed Automatic,SUV,4,Gravity Gray,Black,All-wheel Drive
+Ford,Expedition,2024,70115,Gasoline,8,10-Speed Automatic,SUV,4,Black,Black Onyx,Four-wheel Drive
+Jeep,Wagoneer L,2024,77522,Gasoline,10,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,78655,Hybrid,8,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Nissan,Kicks,2024,24105,Gasoline,12,Automatic CVT,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+Buick,Envista,2024,28000,Gasoline,5,6-Speed Automatic,SUV,4,Sunrise Red Metallic,Ebony,Front-wheel Drive
+Kia,Sportage,2024,33390,Gasoline,10,8-Speed Automatic,SUV,4,Ebony Black,Black,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,60884,Hybrid,2,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,40880,Gasoline,24,Automatic,SUV,4,Acapulco Gold,Black,All-wheel Drive
+Dodge,Hornet,2024,39555,Gasoline,1,9-Speed Automatic,SUV,4,HOT TAMALE,Black,All-wheel Drive
+Ford,Bronco Sport,2024,35077,Gasoline,14,Automatic,SUV,4,Shadow Black,Ebony,Four-wheel Drive
+Cadillac,XT5,2024,47290,Gasoline,3,Automatic,SUV,4,Argent Silver Metallic,Jet Black,All-wheel Drive
+Jeep,Grand Cherokee,2024,44759,Gasoline,6,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Chevrolet,Trax,2025,26190,Gasoline,1,Automatic,SUV,4,Summit White,Black,Front-wheel Drive
+Mercedes-Benz,GLA 250,2024,53710,Gasoline,8,8 Speed Dual Clutch,SUV,4,White,Black,All-wheel Drive
+Dodge,Hornet,2024,46835,Hybrid,21,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Ford,Expedition,2024,86490,Gasoline,6,10-Speed Automatic,SUV,4,Black,Java,Four-wheel Drive
+RAM,3500,2024,84701,Diesel,15,Automatic,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+BMW,X7,2024,88695,Gasoline,9,8-Speed Automatic,SUV,4,Sparkling,Black,All-wheel Drive
+Kia,Sportage,2024,33573,Gasoline,10,8-Speed Automatic,SUV,4,Gravity Gray,Black,All-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,69017,Diesel,10,9-Speed Automatic,Passenger Van,3,Jet Black,Black,Rear-wheel Drive
+RAM,3500,2024,60925,Diesel,10,Automatic,Pickup Truck,4,Delmonico Red Pearlcoat,Black,Four-wheel Drive
+Cadillac,LYRIQ,2024,73110,Electric,19,1-Speed Automatic,SUV,4,Emerald,Gray,All-wheel Drive
+Kia,Telluride,2024,51965,Gasoline,8,Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Wagoneer L,2024,74366,Gasoline,4,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+RAM,3500,2024,63670,Diesel,22,Automatic,Pickup Truck,4,Flame Red Clearcoat,Diesel Gray/Black,Four-wheel Drive
+Ford,Bronco Sport,2024,35010,Gasoline,10,8-Speed Automatic,SUV,4,Hot Pepper Red Metallic Tinted Clearcoat,Ebony,Four-wheel Drive
+Mazda,CX-90,2024,49900,Gasoline,0,8-Speed Automatic,SUV,4,Machine Gray Metallic,Black,All-wheel Drive
+Mercedes-Benz,GLE 450,2024,75925,Gasoline,7,9-Speed Automatic,SUV,4,Polar White,Black,All-wheel Drive
+RAM,3500,2024,93303,Diesel,10,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58049,PHEV Hybrid Fuel,4,Automatic,SUV,4,Platinum,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49260,Gasoline,10,Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Ford,Edge,2024,46835,Gasoline,5,8-Speed Automatic,SUV,4,Metallic,Ebony,All-wheel Drive
+Ford,Transit-150,2024,52640,E85 Flex Fuel,6,10-Speed Automatic,Cargo Van,3,Oxford White,Gray,Rear-wheel Drive
+Kia,Sportage,2024,38040,Gasoline,1,8-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Hyundai,Kona,2024,32491,Gasoline,10,8-Speed Automatic,SUV,4,Abyss Black Pearl,Black,Front-wheel Drive
+Mercedes-Benz,GLA 250,2024,51725,Gasoline,7,8-Speed Automatic with Auto-Shift,SUV,4,Midnight Black,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,58720,Diesel,0,Automatic,Pickup Truck,4,Sterling Gray Metallic,Jet Black,Four-wheel Drive
+Genesis,Electrified GV70,2024,60490,Electric,11,1-Speed Automatic,SUV,4,Vik Black,Black,All-wheel Drive
+BMW,i7,2024,195895,Electric,0,1-Speed Automatic,Sedan,4,Gray Metallic,Caramel,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,37215,Hybrid,8,6-Speed Automatic,SUV,4,Black Pearl,Gray,All-wheel Drive
+Kia,Sportage,2024,32995,Gasoline,10,8-Speed Automatic,SUV,4,Ebony Black,Black,Front-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,14,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Mazda,CX-90,2024,54800,Gasoline,0,8-Speed Automatic,SUV,4,Rhodium White Metallic,White,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,49285,Gasoline,15,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,49895,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4,Gray Cray,Black,All-wheel Drive
+Jeep,Compass,2024,28860,Gasoline,11,8-Speed Automatic,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,63440,Hybrid,5,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Honda,CR-V,2025,38305,Gasoline,0,Automatic CVT,SUV,4,Urban Gray Pearl,Black,All-wheel Drive
+Dodge,Durango,2024,57486,Gasoline,10,8-Speed Automatic,SUV,4,Destroyer Gray Clearcoat,Black,All-wheel Drive
+Dodge,Hornet,2024,40085,Hybrid,16,6-Speed Automatic,SUV,4,Blue,Black,All-wheel Drive
+Volvo,S60 Recharge Plug-In Hybrid,2024,57545,Hybrid,3,8-Speed Automatic,Sedan,4,Onyx Black Metallic,Charcoal,All-wheel Drive
+Ford,Transit-350,2024,74391,Gasoline,85,Automatic,Cargo Van,3,Oxford White,gray,All-wheel Drive
+Kia,Sorento,2023,44876,Gasoline,16,Automatic,SUV,4,Ebony Black,Black,All-wheel Drive
+RAM,3500,2024,64965,Diesel,16,Automatic,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive
+Ford,Escape,2024,38481,Hybrid,10,Automatic,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive
+RAM,3500,2024,77085,Diesel,16,Automatic,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58825,Gasoline,5,8-Speed Automatic,SUV,4,Deep Crystal Blue Mica,White,All-wheel Drive
+Nissan,Kicks,2024,26335,Gasoline,12,Automatic CVT,SUV,4,Boulder Gray Metallic,Charcoal,Front-wheel Drive
+Dodge,Hornet,2024,49720,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4,Acapulco Gold,Black,All-wheel Drive
+Chevrolet,Silverado 1500,2024,50565,Gasoline,0,8-Speed Automatic,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+Chevrolet,Equinox,2024,38717,Gasoline,11,6-Speed Automatic,SUV,4,Radiant Red,Jet Black,All-wheel Drive
+Cadillac,XT6,2024,50415,Gasoline,6,9-Speed Automatic,SUV,4,Crystal White Tri-Coat,Jet Black,Front-wheel Drive
+Ford,Transit-250,2024,50486,E85 Flex Fuel,24,10-Speed Automatic with Overdrive,Cargo Van,3,Oxford White,Dark Palazzo,Rear-wheel Drive
+Volkswagen,Taos,2024,32406,Gasoline,11,8-speed automatic,SUV,4,Deep Black Pearl,Black,Front-wheel Drive
+Kia,Sportage,2024,40250,Gasoline,1,8-Speed Automatic,SUV,4,Black,Black,All-wheel Drive
+Dodge,Durango,2023,47340,Gasoline,11,8-Speed Automatic,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+Subaru,Impreza,2024,29068,Gasoline,5,Automatic CVT,Hatchback,4,Pure Red,Black,All-wheel Drive
+Mazda,CX-70,2025,54620,Gasoline,0,8-Speed Automatic,SUV,4,41w,Red,All-wheel Drive
+Chrysler,Voyager,2024,38954,Gasoline,5,9-Speed Automatic,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+Jeep,Grand Cherokee,2024,49842,Gasoline,8,8-Speed Automatic,SUV,4,Bright White Clearcoat,Beige / Black,Four-wheel Drive
+Nissan,Murano,2024,46510,Gasoline,6,Automatic CVT,SUV,4,Scarlet Ember,Graphite,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,40933,Hybrid,7,6-Speed Automatic,SUV,4,Black Pearl,Gray,All-wheel Drive
+BMW,X3,2024,49395,Gasoline,5,8-Speed Automatic Sport,SUV,4,Jet Black,Cognac,Rear-wheel Drive
+Jeep,Compass,2024,28265,Gasoline,7,8-Speed Automatic,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+RAM,2500,2024,53750,Gasoline,0,Automatic,Pickup Truck,2,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+Subaru,Outback,2024,39822,Gasoline,8,Automatic CVT,SUV,4,Crystal White Pearl,Black,All-wheel Drive
+Jeep,Wagoneer L,2024,88135,Gasoline,21,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Black,Four-wheel Drive
+Ford,Escape,2024,30798,Gasoline,8,Automatic,SUV,4,Agate Black Metallic,Red,Front-wheel Drive
+Volvo,C40 Recharge Pure Electric,2023,62240,Electric,0,Automatic,SUV,4,Gray,Charcoal,All-wheel Drive
+Jeep,Compass,2023,38300,Gasoline,24,Automatic,SUV,4,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive
+Volkswagen,Taos,2024,25311,Gasoline,5,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49201,Gasoline,10,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+Volkswagen,Taos,2024,29386,Gasoline,11,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Pure White,Black,All-wheel Drive
+Jeep,Wagoneer L,2023,72835,Gasoline,20,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Volkswagen,Taos,2024,28994,Gasoline,6,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Platinum Gray Metallic,Black,All-wheel Drive
+Dodge,Hornet,2024,49895,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4,Hot Tamale,Black,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,36280,Hybrid,241,6-Speed Automatic,SUV,4,Shimmering Silver,Gray,All-wheel Drive
+Ford,Expedition,2024,80374,Gasoline,13,10-Speed Automatic,SUV,4,Black,Black Onyx,Four-wheel Drive
+RAM,ProMaster 1500,2024,51380,Gasoline,10,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Dodge,Hornet,2024,52180,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4,Blue Steele,Black,All-wheel Drive
+Dodge,Hornet,2024,46835,Gasoline,11,9-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Volkswagen,Taos,2024,28998,Gasoline,11,7-Speed DSGA? Automatic w/ 4MO,SUV,4,Platinum Gray Metallic,Black,All-wheel Drive
+Nissan,Kicks,2024,24979,Gasoline,5,CVT with Xtronic,SUV,4,Scarlet Ember Tintcoat/Super Black,Charcoal,Front-wheel Drive
+Ford,Transit-350,2024,52530,E85 Flex Fuel,1,10-Speed Automatic with Overdrive,Cargo Van,3,White,Black,Rear-wheel Drive
+Hyundai,IONIQ 5,2024,38201,Electric,12,Automatic,SUV,4,Teal,Gray,Rear-wheel Drive
+RAM,ProMaster 2500,2023,50245,Gasoline,0,Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Ford,Edge,2024,46835,Gasoline,697,8-Speed Automatic,SUV,4,Star White,Ebony,All-wheel Drive
+Kia,EV6,2024,41528,Electric,13,Automatic,SUV,4,Blue,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,49082,Gasoline,51,8-Speed Automatic,SUV,4,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive
+Subaru,Impreza,2024,32098,Gasoline,5,Automatic CVT,Hatchback,4,Crystal Black Silica,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,53791,Hybrid,11,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,49139,Gasoline,10,8-Speed Automatic,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+Ford,Expedition,2024,72135,Gasoline,7,10-Speed Automatic,SUV,4,Black,Black Onyx,Four-wheel Drive
+Honda,CR-V,2024,37965,Gasoline,0,Automatic CVT,SUV,4,Still Night Pearl,Black,All-wheel Drive
+Kia,Soul,2024,21000,Gasoline,5,Automatic,Hatchback,4,Midnight Sapphire,Black,Front-wheel Drive
+Hyundai,Tucson Hybrid,2024,37335,Hybrid,1,6-Speed Automatic,SUV,4,Black Pearl,Black,All-wheel Drive
+Kia,Sportage,2024,33785,Gasoline,1,8-Speed Automatic,SUV,4,Red,Black,All-wheel Drive
+Chrysler,300,2023,35994,Gasoline,10,8-Speed Automatic,Sedan,4,Gloss Black,Black,Rear-wheel Drive
+GMC,Sierra 2500,2024,48268,Gasoline,3,10-Speed Automatic,Pickup Truck,2,Summit White,Jet Black,Rear-wheel Drive
+Dodge,Hornet,2024,45141,Hybrid,5,6-Speed Automatic,SUV,4,Blue Steel,Black,All-wheel Drive
+Volkswagen,Taos,2024,28098,Gasoline,66,7-Speed DSG Automatic with Tiptronic,SUV,4,Deep Black Pearl,Gray/Black,All-wheel Drive
+Nissan,Kicks,2024,24430,Gasoline,12,Automatic CVT,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+Nissan,Kicks,2024,24430,Gasoline,12,Automatic CVT,SUV,4,Super Black,Charcoal,Front-wheel Drive
+Nissan,Kicks,2024,25080,Gasoline,12,Automatic CVT,SUV,4,Aspen White / Super Black,Charcoal,Front-wheel Drive
+Mercedes-Benz,AMG C 43,2024,73960,Gasoline,5,9-Speed Automatic,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,46659,Gasoline,10,8-Speed Automatic,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+Dodge,Hornet,2024,43490,Hybrid,18,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Dodge,Durango,2023,47280,Gasoline,22,8-Speed Automatic,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+RAM,3500,2024,80927,Diesel,11,Automatic,Pickup Truck,4,White,Black,Four-wheel Drive
+Chevrolet,Equinox,2024,33977,Gasoline,6,6-Speed Automatic,SUV,4,Summit White,Jet Black,All-wheel Drive
+Kia,Sportage,2024,35795,Gasoline,41,8-Speed Automatic,SUV,4,Wolf Gray,Black,All-wheel Drive
+Ford,Maverick,2024,36550,Gasoline,4,8-Speed Automatic,Pickup Truck,4,Carbonized Gray Metallic,Black Onyx,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,37805,Hybrid,10,6-Speed Automatic,SUV,4,White Pearl,Gray,All-wheel Drive
+Jeep,Wagoneer,2024,74625,Gasoline,10,8-Speed Automatic,SUV,4,Silver,Global Black,Four-wheel Drive
+Kia,Sportage,2024,35400,Gasoline,141,8-Speed Automatic,SUV,4,Jungle Green,Black,All-wheel Drive
+Dodge,Hornet,2024,43613,Hybrid,5,6-Speed Automatic,SUV,4,Gray,Black,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49836,Gasoline,7,Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+Hyundai,Kona,2024,27555,Gasoline,0,Automatic CVT,SUV,4,Orange Pearl,Black,All-wheel Drive
+Ford,Escape,2024,29305,Gasoline,10,8-Speed Automatic,SUV,4,Carbonized Gray Metallic,Ebony,Front-wheel Drive
+Ford,Edge,2024,40015,Gasoline,2,8-Speed Automatic,SUV,4,Gray,Ebony,All-wheel Drive
+Kia,Sportage,2024,35195,Gasoline,10,8-Speed Automatic,SUV,4,Ebony Black,Black,Front-wheel Drive
+Kia,EV6,2024,43439,Electric,14,Automatic,SUV,4,Aurora Black Pearl,Black,All-wheel Drive
+Ford,Bronco Sport,2024,35615,Gasoline,0,8-Speed Automatic,SUV,4,Cactus Gray,Navy Pier,Four-wheel Drive
+Kia,Forte,2024,21070,Gasoline,8,Automatic CVT,Sedan,4,Steel Gray,Black,Front-wheel Drive
+Nissan,Versa,2024,20842,Gasoline,4,Automatic CVT,Sedan,4,Gun Metallic,Charcoal,Front-wheel Drive
+Ford,Explorer,2024,43685,Gasoline,8,10-Speed Automatic,SUV,4,Carbonized Gray Metallic,Ebony,Rear-wheel Drive
+Jeep,Wagoneer L,2024,66770,Gasoline,20,8-Speed Automatic,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+RAM,ProMaster 1500,2024,48822,Gasoline,12,9-Speed Automatic,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+Hyundai,Tucson Hybrid,2024,37220,Hybrid,5,6-Speed Automatic,SUV,4,Deep Sea,Gray,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,67164,Hybrid,29,8-Speed Automatic,SUV,4,Metallic,Global Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,37309,Hybrid,5,6-Speed Automatic,SUV,4,Amazon Gray,Black,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,77314,Hybrid,6,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,70312,Hybrid,24,8-Speed Automatic,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+Jeep,Compass,2024,36331,Gasoline,17,8-Speed Automatic,SUV,4,Silver Zynith,Black,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,62343,Hybrid,11,8-Speed Automatic,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+RAM,3500,2024,67446,Diesel,296,Automatic,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,40835,Hybrid,16,Automatic,SUV,4,Amazon Gray,Black,All-wheel Drive
+Jeep,Gladiator,2024,54620,Gasoline,5,Automatic,Pickup Truck,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,59674,Gasoline,8,Automatic,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+RAM,2500,2024,69315,Diesel,0,Automatic,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,59037,Diesel,10,9-Speed Automatic,Cargo Van,3,Arctic White,Black,Rear-wheel Drive
+Jeep,Wagoneer,2024,69085,Gasoline,20,8-Speed Automatic,SUV,4,Diamond Black,Black,Four-wheel Drive
+Nissan,Murano,2024,43495,Gasoline,6,Automatic,SUV,4,Pearl White Tricoat,Graphite,All-wheel Drive
+Chevrolet,Silverado 2500,2024,48995,Gasoline,31,Automatic,Pickup Truck,4,Wheatland Yellow,Jet Black,Rear-wheel Drive
